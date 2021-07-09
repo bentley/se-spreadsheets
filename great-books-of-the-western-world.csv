@@ -1,50 +1,77 @@
 Author,Work,Great Books 1952,Great Books 1990,Suitable for SE,Exists on SE,Exists elsewhere,Additional collections
 Homer,The Iliad,✔,✔,Yes,homer/the-iliad/william-cullen-bryant,—,—
 Homer,The Odyssey,✔,✔,Yes,homer/the-odyssey/william-cullen-bryant,—,—
-Aeschylus,The Suppliant Maidens,✔,✔,Yes,,https://gutenberg.org/ebooks/8714,—
-Aeschylus,The Persians,✔,✔,Yes,,https://gutenberg.org/ebooks/8714,—
-Aeschylus,Seven Against Thebes,✔,✔,Yes,,https://gutenberg.org/ebooks/8714,—
-Aeschylus,Prometheus Bound,✔,✔,Yes,,https://gutenberg.org/ebooks/8714,—
+Aeschylus,The Suppliant Maidens,✔,✔,Yes,,https://gutenberg.org/ebooks/8714,
+Aeschylus,The Persians,✔,✔,Yes,,https://gutenberg.org/ebooks/8714,
+Aeschylus,Seven Against Thebes,✔,✔,Yes,,https://gutenberg.org/ebooks/8714,
+Aeschylus,Prometheus Bound,✔,✔,Yes,,https://gutenberg.org/ebooks/8714,
 Aeschylus,Agamemnon,✔,✔,Yes,,https://gutenberg.org/ebooks/8604,The Oresteia
 Aeschylus,Choephoroe,✔,✔,Yes,,https://gutenberg.org/ebooks/8604,The Oresteia
 Aeschylus,The Eumenides,✔,✔,Yes,,https://gutenberg.org/ebooks/8604,The Oresteia
 Sophocles,Oedipus the King,✔,✔,Yes,,https://gutenberg.org/ebooks/31,The Oedipus Cycle
 Sophocles,Oedipus at Colonus,✔,✔,Yes,,https://gutenberg.org/ebooks/31,The Oedipus Cycle
 Sophocles,Antigone,✔,✔,Yes,,https://gutenberg.org/ebooks/31,The Oedipus Cycle
-Sophocles,Ajax,✔,✔,Yes,,https://gutenberg.org/ebooks/14484,—
-Sophocles,Electra,✔,✔,Yes,,https://gutenberg.org/ebooks/14484,—
-Sophocles,The Trachiniae,✔,✔,Yes,,https://gutenberg.org/ebooks/14484,—
-Sophocles,Philoctetes,✔,✔,Yes,,https://gutenberg.org/ebooks/14484,—
-Euripides,Rhesus,✔,✔,Yes,,https://gutenberg.org/ebooks/35170,—
-Euripides,Medea,✔,✔,Yes,,https://gutenberg.org/ebooks/35451,—
-Euripides,Hippolytus,✔,✔,Yes,,https://gutenberg.org/ebooks/8418,—
-Euripides,Alcestis,✔,✔,Yes,,https://gutenberg.org/ebooks/10523,—
-Euripides,Heracleidae,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,—
+Sophocles,Ajax,✔,✔,Yes,,https://gutenberg.org/ebooks/14484,
+Sophocles,Electra,✔,✔,Yes,,https://gutenberg.org/ebooks/14484,
+Sophocles,The Trachiniae,✔,✔,Yes,,https://gutenberg.org/ebooks/14484,
+Sophocles,Philoctetes,✔,✔,Yes,,https://gutenberg.org/ebooks/14484,
+Euripides,Rhesus,✔,✔,Yes,,https://gutenberg.org/ebooks/35170,
+Euripides,Medea,✔,✔,Yes,,https://gutenberg.org/ebooks/35451,
+Euripides,Hippolytus,✔,✔,Yes,,https://gutenberg.org/ebooks/8418,
+Euripides,Alcestis,✔,✔,Yes,,https://gutenberg.org/ebooks/10523,
+Euripides,Heracleidae,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,
 Euripides,The Suppliants,✔,✔,Yes,,—,—
-Euripides,The Trojan Women,✔,✔,Yes,,https://gutenberg.org/ebooks/10096,—
+Euripides,The Trojan Women,✔,✔,Yes,,https://gutenberg.org/ebooks/10096,
 Euripides,Ion,✔,✔,Yes,,—,—
 Euripides,Helen,✔,✔,Yes,,—,—
 Euripides,Andromache,✔,✔,Yes,,—,—
-Euripides,Electra,✔,✔,Yes,,https://gutenberg.org/ebooks/14322,—
-Euripides,Bacchantes,✔,✔,Yes,,https://gutenberg.org/ebooks/8418 https://gutenberg.org/ebooks/35173,—
-Euripides,Hecuba,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,—
+Euripides,Electra,✔,✔,Yes,,https://gutenberg.org/ebooks/14322,
+Euripides,Bacchantes,✔,✔,Yes,,https://gutenberg.org/ebooks/8418 https://gutenberg.org/ebooks/35173,
+Euripides,Hecuba,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,
 Euripides,Heracles Mad,✔,✔,Yes,,—,—
-Euripides,The Phoenician Women,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,—
-Euripides,Orestes,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,—
-Euripides,Iphigenia in Tauris,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,—
-Euripides,Iphigenia in Aulis,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,—
-Euripides,Cyclops,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,—
-Aristophanes,The Acharnians,✔,✔,Yes,,https://gutenberg.org/ebooks/3012,—
-Aristophanes,The Knights,✔,✔,Yes,,https://gutenberg.org/ebooks/8688,—
-Aristophanes,The Clouds,✔,✔,Yes,,https://gutenberg.org/ebooks/2562,—
-Aristophanes,The Wasps,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,—
-Aristophanes,Peace,✔,✔,Yes,,https://gutenberg.org/ebooks/2571,—
-Aristophanes,The Birds,✔,✔,Yes,,https://gutenberg.org/ebooks/3013,—
-Aristophanes,The Frogs,✔,✔,Yes,,https://gutenberg.org/ebooks/7998,—
-Aristophanes,Lysistrata,✔,✔,Yes,,https://gutenberg.org/ebooks/7700,—
-Aristophanes,Thesmophoriazusae,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,—
-Aristophanes,Ecclesiazousae,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,—
-Aristophanes,Plutus,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,—
+Euripides,The Phoenician Women,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,
+Euripides,Orestes,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,
+Euripides,Iphigenia in Tauris,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,
+Euripides,Iphigenia in Aulis,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,
+Euripides,Cyclops,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,
+Aristophanes,The Acharnians,✔,✔,Yes,,https://gutenberg.org/ebooks/3012,
+Aristophanes,The Knights,✔,✔,Yes,,https://gutenberg.org/ebooks/8688,
+Aristophanes,The Clouds,✔,✔,Yes,,https://gutenberg.org/ebooks/2562,
+Aristophanes,The Wasps,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,
+Aristophanes,Peace,✔,✔,Yes,,https://gutenberg.org/ebooks/2571,
+Aristophanes,The Birds,✔,✔,Yes,,https://gutenberg.org/ebooks/3013,
+Aristophanes,The Frogs,✔,✔,Yes,,https://gutenberg.org/ebooks/7998,
+Aristophanes,Lysistrata,✔,✔,Yes,,https://gutenberg.org/ebooks/7700,
+Aristophanes,Thesmophoriazusae,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,
+Aristophanes,Ecclesiazousae,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,
+Aristophanes,Plutus,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,
+Herodotus,The History,✔,✔,Yes,,https://gutenberg.org/ebooks/2707 https://gutenberg.org/ebooks/2456,
+Thucydides,History of the Peloponnesian War,✔,✔,Yes,,https://gutenberg.org/ebooks/7142,
+Plato,Charmides,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1580,Dialogues
+Plato,Lysis,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1579,Dialogues
+Plato,Laches,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1584,Dialogues
+Plato,Protagoras,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1591,Dialogues
+Plato,Euthydemus,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1598,Dialogues
+Plato,Cratylus,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1616,Dialogues
+Plato,Phaedrus,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1636,Dialogues
+Plato,Ion,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1635,Dialogues
+Plato,Symposium,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1600,Dialogues
+Plato,Meno,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1643,Dialogues
+Plato,Euthyphro,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1642,Dialogues
+Plato,Apology,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1656,Dialogues
+Plato,Crito,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1657,Dialogues
+Plato,Phaedo,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1658,Dialogues
+Plato,Gorgias,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1672,Dialogues
+Plato,The Republic,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1497,Dialogues
+Plato,Timaeus,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1572,Dialogues
+Plato,Critias,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1571,Dialogues
+Plato,Parmenides,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1687,Dialogues
+Plato,Theaetetus,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1726,Dialogues
+Plato,Sophist,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1735,Dialogues
+Plato,Statesman,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1738,Dialogues
+Plato,Philebus,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1744,Dialogues
+Plato,Laws,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1750,Dialogues
+Plato,The Seventh Letter,✔,✔,Yes,,,
 Aristotle,Nicomachean Ethics,✔,✔,Yes,aristotle/nicomachean-ethics/f-h-peters,—,—
 Marcus Aurelius,The Meditations,✔,✔,Yes,marcus-aurelius/meditations/george-long,—,—
 Virgil,Aeneid,✔,✔,Yes,virgil/the-aeneid/john-dryden,—,—
