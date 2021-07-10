@@ -181,9 +181,40 @@ Miguel de Cervantes,Don Quixote,✔,✔,Yes,miguel-de-cervantes-saavedra/don-qui
 Sir Francis Bacon,The Advancement of Learning,✔,✔,Yes,,https://gutenberg.org/ebooks/5500,
 Sir Francis Bacon,Novum Organum,✔,✔,Yes,,https://gutenberg.org/ebooks/45988,
 Sir Francis Bacon,New Atlantis,✔,✔,Yes,,https://gutenberg.org/ebooks/2434,
+René Descartes,Rules for the Direction of the Mind,✔,✔,"No, too short",—,—,—
+René Descartes,Discourse on the Method,✔,✔,Yes,,https://gutenberg.org/ebooks/59 https://gutenberg.org/ebooks/25830,
+René Descartes,Meditations on First Philosophy,✔,✔,"Yes, omnibus?",,,
+René Descartes,Objections Against the Meditations and Replies,✔,✔,"Yes, omnibus?",,,
+René Descartes,The Geometry,✔,✔,Yes,,,appendix to Discourse on the Method
+Benedict de Spinoza,Ethics,✔,✔,Yes,,https://gutenberg.org/ebooks/3800,
+John Milton,English Minor Poems,✔,✔,Yes,,https://gutenberg.org/ebooks/31706 https://gutenberg.org/ebooks/1745,
 John Milton,Paradise Lost,✔,✔,Yes,john-milton/paradise-lost,—,—
+John Milton,Samson Agonistes,✔,✔,Yes,,,
+John Milton,Areopagitica,✔,✔,"No, too short",—,—,—
+Blaise Pascal,The Provincial Letters,✔,✔,Yes,,,
+Blaise Pascal,Pensées,✔,✔,Yes,,https://gutenberg.org/ebooks/18269,
+Blaise Pascal,Scientific and mathematical essays,✔,✔,No?,—,—,—
+Sir Isaac Newton,Mathematical Principles of Natural Philosophy,✔,✔,Yes,,,
+Sir Isaac Newton,Optics,✔,✔,Less notable,—,—,—
+Christiaan Huygens,Treatise on Light,✔,✔,No,—,—,—
+John Locke,A Letter Concerning Toleration,✔,✔,"No, too short",—,—,—
+John Locke,"Concerning Civil Government, Second Essay",✔,✔,Yes,,,
+John Locke,An Essay Concerning Human Understanding,✔,✔,Yes,,https://gutenberg.org/ebooks/10615,
+George Berkeley,The Principles of Human Knowledge,✔,✔,"No, short",—,https://gutenberg.org/ebooks/4723,—
+David Hume,An Enquiry Concerning Human Understanding,✔,✔,Yes,,https://gutenberg.org/ebooks/9662,
 Jonathan Swift,Gulliver’s Travels,✔,✔,Yes,jonathan-swift/gullivers-travels,—,—
 Laurence Sterne,"The Life and Opinions of Tristram Shandy, Gentleman",✔,✗,Yes,laurence-sterne/the-life-and-opinions-of-tristram-shandy-gentleman,—,—
+"Charles de Secondat, Baron de Montesquieu",The Spirit of the Laws,✔,✔,Yes,,https://archive.org/details/spiritoflaws01montuoft/,
+Jean‐Jacques Rousseau,A Discourse on the Origin of Inequality,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/11136 https://gutenberg.org/ebooks/46333,
+Jean‐Jacques Rousseau,A Discourse on Political Economy,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/46333,
+Jean‐Jacques Rousseau,The Social Contract,✔,✔,Yes,,https://gutenberg.org/ebooks/46333,
+Adam Smith,An Inquiry into the Nature and Causes of the Wealth of Nations,✔,✔,Yes,,https://gutenberg.org/ebooks/3300,
+Edward Gibbon,The Decline and Fall of the Roman Empire,✔,✔,Yes,,https://gutenberg.org/ebooks/25717,
+Immanuel Kant,The Critique of Pure Reason,✔,✔,Yes,,https://gutenberg.org/ebooks/4280,
+Immanuel Kant,Fundamental Principles of the Metaphysic of Morals,✔,✔,Yes,,https://gutenberg.org/ebooks/5682,
+Immanuel Kant,Critique of Practical Reason,✔,✔,Yes,,https://gutenberg.org/ebooks/5683,
+Immanuel Kant,Excerpts from The Metaphysics of Morals,✔,✔,Yes,,https://gutenberg.org/ebooks/5684,
+Immanuel Kant,The Critique of Judgement,✔,✔,Yes,,https://gutenberg.org/ebooks/48433,
 Henry Fielding,"The History of Tom Jones, a Foundling",✔,✗,Yes,henry-fielding/the-history-of-tom-jones-a-foundling,—,—
 "Alexander Hamilton, James Madison, John Jay",The Federalist,✔,✔,Yes,alexander-hamilton_john-jay_james-madison/the-federalist-papers,—,—
 John Stuart Mill,On Liberty,✔,✔,Yes,john-stuart-mill/on-liberty,—,—
