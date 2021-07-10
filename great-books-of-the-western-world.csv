@@ -119,14 +119,35 @@ Virgil,Aeneid,✔,✔,Yes,virgil/the-aeneid/john-dryden,—,—
 Plutarch,The Lives of the Noble Grecians and Romans,✔,✔,Yes,,https://gutenberg.org/ebooks/14033 https://gutenberg.org/ebooks/14114 https://gutenberg.org/ebooks/14140 https://gutenberg.org/ebooks/44315,
 Tacitus,The Annals,✔,✔,Yes,,https://gutenberg.org/ebooks/7959,
 Tacitus,The Histories,✔,✔,Yes,,https://gutenberg.org/ebooks/16927,
+Ptolemy,Almagest,✔,✔,Yes,,,
+Nicolaus Copernicus,On the Revolutions of Heavenly Spheres,✔,✔,Yes,,,
+Johannes Kepler,Epitome of Copernican Astronomy,✔,✔,Yes,,,
+Johannes Kepler,The Harmonies of the World,✔,✔,Yes,,,
+Plotinus,The Six Enneads,✔,✔,Yes,,https://gutenberg.org/ebooks/42930 https://gutenberg.org/ebooks/42931 https://gutenberg.org/ebooks/42932 https://gutenberg.org/ebooks/42933,
+Augustine of Hippo,Confessions,✔,✔,Yes,,https://gutenberg.org/ebooks/3296,
+Augustine of Hippo,The City of God,✔,✔,Yes,,https://gutenberg.org/ebooks/45304 https://gutenberg.org/ebooks/45305,
+Augustine of Hippo,On Christian Doctrine,✔,✔,Yes,,,
+Thomas Aquinas,Summa Theologica,✔,✔,Yes,,https://gutenberg.org/ebooks/17611 https://gutenberg.org/ebooks/17897 https://gutenberg.org/ebooks/18755 https://gutenberg.org/ebooks/19950,
 Dante,Divine Comedy,✔,✔,Yes,dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow,—,—
+Geoffrey Chaucer,Troilus and Criseyde,✔,✔,Yes,,https://gutenberg.org/ebooks/257,
+Geoffrey Chaucer,The Canterbury Tales,✔,✔,Yes,,https://gutenberg.org/ebooks/2383 https://gutenberg.org/ebooks/22120,
 Niccolò Machiavelli,The Prince,✔,✔,Yes,niccolo-machiavelli/the-prince/w-k-marriott,—,—
+Thomas Hobbes,Leviathan,✔,✔,Yes,,https://gutenberg.org/ebooks/3207,
+François Rabelais,Gargantua and Pantagruel,✔,✔,Yes,,https://gutenberg.org/ebooks/1200,
 William Shakespeare,The First Part of King Henry the Sixth,✔,✔,Yes,william-shakespeare/henry-vi-part-i,—,—
 William Shakespeare,The Second Part of King Henry the Sixth,✔,✔,Yes,william-shakespeare/henry-vi-part-ii,—,—
 William Shakespeare,The Third Part of King Henry the Sixth,✔,✔,Yes,william-shakespeare/henry-vi-part-iii,—,—
+William Shakespeare,The Tragedy of Richard the Third,✔,✔,Yes,,,
 William Shakespeare,The Comedy of Errors,✔,✔,Yes,william-shakespeare/the-comedy-of-errors,—,—
+William Shakespeare,Titus Andronicus,✔,✔,Yes,,,
+William Shakespeare,The Taming of the Shrew,✔,✔,Yes,,,
+William Shakespeare,The Two Gentlemen of Verona,✔,✔,Yes,,,
+William Shakespeare,Love’s Labour’s Lost,✔,✔,Yes,,,
 William Shakespeare,Romeo and Juliet,✔,✔,Yes,william-shakespeare/romeo-and-juliet,—,—
+William Shakespeare,The Tragedy of King Richard the Second,✔,✔,Yes,,,
 William Shakespeare,A Midsummer Night’s Dream,✔,✔,Yes,william-shakespeare/a-midsummer-nights-dream,—,—
+William Shakespeare,The Life and Death of King John,✔,✔,Yes,,,
+William Shakespeare,The Merchant of Venice,✔,✔,Yes,,,
 William Shakespeare,The First Part of King Henry the Fourth,✔,✔,Yes,william-shakespeare/henry-iv-part-i,—,—
 William Shakespeare,The Second Part of King Henry the Fourth,✔,✔,Yes,william-shakespeare/henry-iv-part-ii,—,—
 William Shakespeare,Much Ado About Nothing,✔,✔,Yes,william-shakespeare/much-ado-about-nothing,—,—
@@ -134,13 +155,32 @@ William Shakespeare,The Life of King Henry the Fifth,✔,✔,Yes,william-shakesp
 William Shakespeare,Julius Caesar,✔,✔,Yes,william-shakespeare/julius-caesar,—,—
 William Shakespeare,As You Like It,✔,✔,Yes,william-shakespeare/as-you-like-it,—,—
 William Shakespeare,"Twelfth Night; or, What You Will",✔,✔,Yes,william-shakespeare/twelfth-night,—,—
-William Shakespeare,The Tragedy of Hamlet Prince of Denmark,✔,✔,Yes,william-shakespeare/hamlet,—,—
+William Shakespeare,"The Tragedy of Hamlet, Prince of Denmark",✔,✔,Yes,william-shakespeare/hamlet,—,—
 William Shakespeare,The Merry Wives of Windsor,✔,✔,Yes,william-shakespeare/the-merry-wives-of-windsor,—,—
-William Shakespeare,Othello,✔,✔,Yes,william-shakespeare/othello,—,—
+William Shakespeare,Troilus and Cressida,✔,✔,Yes,,,
+William Shakespeare,All’s Well That Ends Well,✔,✔,Yes,,,
+William Shakespeare,Measure for Measure,✔,✔,Yes,,,
+William Shakespeare,"Othello, the Moor of Venice",✔,✔,Yes,william-shakespeare/othello,—,—
 William Shakespeare,King Lear,✔,✔,Yes,william-shakespeare/king-lear,—,—
 William Shakespeare,Macbeth,✔,✔,Yes,william-shakespeare/macbeth,—,—
+William Shakespeare,Antony and Cleopatra,✔,✔,Yes,,,
+William Shakespeare,Coriolanus,✔,✔,Yes,,,
+William Shakespeare,Timon of Athens,✔,✔,Yes,,,
+William Shakespeare,"Pericles, Prince of Tyre",✔,✔,Yes,,,
+William Shakespeare,Cymbeline,✔,✔,Yes,,,
+William Shakespeare,The Winter’s Tale,✔,✔,Yes,,,
 William Shakespeare,The Tempest,✔,✔,Yes,william-shakespeare/the-tempest,—,—
+William Shakespeare,The Famous History of the Life of King Henry the Eighth,✔,✔,Yes,,,
+William Shakespeare,Sonnets,✔,✔,Yes,,,
+William Gilbert,On the Loadstone and Magnetic Bodies,✔,✔,"No, old science",—,—,—
+Galileo Galilei,Dialogues Concerning the Two New Sciences,✔,✔,Yes,,,
+William Harvey,On the Motion of the Heart and Blood in Animals,✔,✔,"No, old science",—,—,—
+William Harvey,On the Circulation of Blood,✔,✔,"No, old science",—,—,—
+William Harvey,On the Generation of Animals,✔,✔,"No, old science",—,—,—
 Miguel de Cervantes,Don Quixote,✔,✔,Yes,miguel-de-cervantes-saavedra/don-quixote/john-ormsby,—,—
+Sir Francis Bacon,The Advancement of Learning,✔,✔,Yes,,https://gutenberg.org/ebooks/5500,
+Sir Francis Bacon,Novum Organum,✔,✔,Yes,,https://gutenberg.org/ebooks/45988,
+Sir Francis Bacon,New Atlantis,✔,✔,Yes,,https://gutenberg.org/ebooks/2434,
 John Milton,Paradise Lost,✔,✔,Yes,john-milton/paradise-lost,—,—
 Jonathan Swift,Gulliver’s Travels,✔,✔,Yes,jonathan-swift/gullivers-travels,—,—
 Laurence Sterne,"The Life and Opinions of Tristram Shandy, Gentleman",✔,✗,Yes,laurence-sterne/the-life-and-opinions-of-tristram-shandy-gentleman,—,—
