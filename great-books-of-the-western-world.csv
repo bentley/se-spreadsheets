@@ -26,7 +26,8 @@ Euripides,Ion,✔,✔,Yes,,—,—
 Euripides,Helen,✔,✔,Yes,,—,—
 Euripides,Andromache,✔,✔,Yes,,—,—
 Euripides,Electra,✔,✔,Yes,,https://gutenberg.org/ebooks/14322,
-Euripides,Bacchantes,✔,✔,Yes,,https://gutenberg.org/ebooks/8418 https://gutenberg.org/ebooks/35173,
+Euripides,Bacchantes,✔,✔,Yes,,"https://gutenberg.org/ebooks/8418
+https://gutenberg.org/ebooks/35173",
 Euripides,Hecuba,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,
 Euripides,Heracles Mad,✔,✔,Yes,,—,—
 Euripides,The Phoenician Women,✔,✔,Yes,,https://gutenberg.org/ebooks/15081,
@@ -45,7 +46,8 @@ Aristophanes,Lysistrata,✔,✔,Yes,,https://gutenberg.org/ebooks/7700,
 Aristophanes,Thesmophoriazusae,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,
 Aristophanes,Ecclesiazousae,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,
 Aristophanes,Plutus,✔,✔,Yes,,https://gutenberg.org/ebooks/8689,
-Herodotus,The History,✔,✔,Yes,,https://gutenberg.org/ebooks/2707 https://gutenberg.org/ebooks/2456,
+Herodotus,The History,✔,✔,Yes,,"https://gutenberg.org/ebooks/2707
+https://gutenberg.org/ebooks/2456",
 Thucydides,History of the Peloponnesian War,✔,✔,Yes,,https://gutenberg.org/ebooks/7142,
 Plato,Charmides,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1580,Dialogues
 Plato,Lysis,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/1579,Dialogues
@@ -116,21 +118,32 @@ Marcus Aurelius,The Meditations,✔,✔,Yes,marcus-aurelius/meditations/george-l
 Virgil,Eclogues,✔,✔,Yes,,https://gutenberg.org/ebooks/230,
 Virgil,Georgics,✔,✔,Yes,,https://gutenberg.org/ebooks/232,
 Virgil,Aeneid,✔,✔,Yes,virgil/the-aeneid/john-dryden,—,—
-Plutarch,The Lives of the Noble Grecians and Romans,✔,✔,Yes,,https://gutenberg.org/ebooks/14033 https://gutenberg.org/ebooks/14114 https://gutenberg.org/ebooks/14140 https://gutenberg.org/ebooks/44315,
+Plutarch,The Lives of the Noble Grecians and Romans,✔,✔,Yes,,"https://gutenberg.org/ebooks/14033
+https://gutenberg.org/ebooks/14114
+https://gutenberg.org/ebooks/14140
+https://gutenberg.org/ebooks/44315",
 Tacitus,The Annals,✔,✔,Yes,,https://gutenberg.org/ebooks/7959,
 Tacitus,The Histories,✔,✔,Yes,,https://gutenberg.org/ebooks/16927,
 Ptolemy,Almagest,✔,✔,Yes,,,
 Nicolaus Copernicus,On the Revolutions of Heavenly Spheres,✔,✔,Yes,,,
 Johannes Kepler,Epitome of Copernican Astronomy,✔,✔,Yes,,,
 Johannes Kepler,The Harmonies of the World,✔,✔,Yes,,,
-Plotinus,The Six Enneads,✔,✔,Yes,,https://gutenberg.org/ebooks/42930 https://gutenberg.org/ebooks/42931 https://gutenberg.org/ebooks/42932 https://gutenberg.org/ebooks/42933,
+Plotinus,The Six Enneads,✔,✔,Yes,,"https://gutenberg.org/ebooks/42930
+https://gutenberg.org/ebooks/42931
+https://gutenberg.org/ebooks/42932
+https://gutenberg.org/ebooks/42933",
 Augustine of Hippo,Confessions,✔,✔,Yes,,https://gutenberg.org/ebooks/3296,
-Augustine of Hippo,The City of God,✔,✔,Yes,,https://gutenberg.org/ebooks/45304 https://gutenberg.org/ebooks/45305,
+Augustine of Hippo,The City of God,✔,✔,Yes,,"https://gutenberg.org/ebooks/45304
+https://gutenberg.org/ebooks/45305",
 Augustine of Hippo,On Christian Doctrine,✔,✔,Yes,,,
-Thomas Aquinas,Summa Theologica,✔,✔,Yes,,https://gutenberg.org/ebooks/17611 https://gutenberg.org/ebooks/17897 https://gutenberg.org/ebooks/18755 https://gutenberg.org/ebooks/19950,
+Thomas Aquinas,Summa Theologica,✔,✔,Yes,,"https://gutenberg.org/ebooks/17611
+https://gutenberg.org/ebooks/17897
+https://gutenberg.org/ebooks/18755
+https://gutenberg.org/ebooks/19950",
 Dante,Divine Comedy,✔,✔,Yes,dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow,—,—
 Geoffrey Chaucer,Troilus and Criseyde,✔,✔,Yes,,https://gutenberg.org/ebooks/257,
-Geoffrey Chaucer,The Canterbury Tales,✔,✔,Yes,,https://gutenberg.org/ebooks/2383 https://gutenberg.org/ebooks/22120,
+Geoffrey Chaucer,The Canterbury Tales,✔,✔,Yes,,"https://gutenberg.org/ebooks/2383
+https://gutenberg.org/ebooks/22120",
 Niccolò Machiavelli,The Prince,✔,✔,Yes,niccolo-machiavelli/the-prince/w-k-marriott,—,—
 Thomas Hobbes,Leviathan,✔,✔,Yes,,https://gutenberg.org/ebooks/3207,
 François Rabelais,Gargantua and Pantagruel,✔,✔,Yes,,https://gutenberg.org/ebooks/1200,
@@ -182,12 +195,14 @@ Sir Francis Bacon,The Advancement of Learning,✔,✔,Yes,,https://gutenberg.org
 Sir Francis Bacon,Novum Organum,✔,✔,Yes,,https://gutenberg.org/ebooks/45988,
 Sir Francis Bacon,New Atlantis,✔,✔,Yes,,https://gutenberg.org/ebooks/2434,
 René Descartes,Rules for the Direction of the Mind,✔,✔,"No, too short",—,—,—
-René Descartes,Discourse on the Method,✔,✔,Yes,,https://gutenberg.org/ebooks/59 https://gutenberg.org/ebooks/25830,
+René Descartes,Discourse on the Method,✔,✔,Yes,,"https://gutenberg.org/ebooks/59
+https://gutenberg.org/ebooks/25830",
 René Descartes,Meditations on First Philosophy,✔,✔,"Yes, omnibus?",,,
 René Descartes,Objections Against the Meditations and Replies,✔,✔,"Yes, omnibus?",,,
 René Descartes,The Geometry,✔,✔,Yes,,,appendix to Discourse on the Method
 Benedict de Spinoza,Ethics,✔,✔,Yes,,https://gutenberg.org/ebooks/3800,
-John Milton,English Minor Poems,✔,✔,Yes,,https://gutenberg.org/ebooks/31706 https://gutenberg.org/ebooks/1745,
+John Milton,English Minor Poems,✔,✔,Yes,,"https://gutenberg.org/ebooks/31706
+https://gutenberg.org/ebooks/1745",
 John Milton,Paradise Lost,✔,✔,Yes,john-milton/paradise-lost,—,—
 John Milton,Samson Agonistes,✔,✔,Yes,,,
 John Milton,Areopagitica,✔,✔,"No, too short",—,—,—
@@ -204,8 +219,9 @@ George Berkeley,The Principles of Human Knowledge,✔,✔,"No, short",—,https:
 David Hume,An Enquiry Concerning Human Understanding,✔,✔,Yes,,https://gutenberg.org/ebooks/9662,
 Jonathan Swift,Gulliver’s Travels,✔,✔,Yes,jonathan-swift/gullivers-travels,—,—
 Laurence Sterne,"The Life and Opinions of Tristram Shandy, Gentleman",✔,✗,Yes,laurence-sterne/the-life-and-opinions-of-tristram-shandy-gentleman,—,—
-"Charles de Secondat, Baron de Montesquieu",The Spirit of the Laws,✔,✔,Yes,,https://archive.org/details/spiritoflaws01montuoft/,
-Jean‐Jacques Rousseau,A Discourse on the Origin of Inequality,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/11136 https://gutenberg.org/ebooks/46333,
+Charles de Secondat,The Spirit of the Laws,✔,✔,Yes,,https://archive.org/details/spiritoflaws01montuoft/,
+Jean‐Jacques Rousseau,A Discourse on the Origin of Inequality,✔,✔,"Yes, omnibus",,"https://gutenberg.org/ebooks/11136
+https://gutenberg.org/ebooks/46333",
 Jean‐Jacques Rousseau,A Discourse on Political Economy,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/46333,
 Jean‐Jacques Rousseau,The Social Contract,✔,✔,Yes,,https://gutenberg.org/ebooks/46333,
 Adam Smith,An Inquiry into the Nature and Causes of the Wealth of Nations,✔,✔,Yes,,https://gutenberg.org/ebooks/3300,
@@ -219,7 +235,9 @@ Henry Fielding,"The History of Tom Jones, a Foundling",✔,✗,Yes,henry-fieldin
 American State Papers,Declaration of Independence,✔,✔,No,—,—,—
 American State Papers,Articles of Confederation,✔,✔,No,—,—,—
 American State Papers,The Constitution of the United States of America,✔,✔,No,—,—,—
-"Alexander Hamilton, James Madison, John Jay",The Federalist,✔,✔,Yes,alexander-hamilton_john-jay_james-madison/the-federalist-papers,—,—
+"Alexander Hamilton,
+James Madison,
+John Jay",The Federalist,✔,✔,Yes,alexander-hamilton_john-jay_james-madison/the-federalist-papers,—,—
 John Stuart Mill,On Liberty,✔,✔,Yes,john-stuart-mill/on-liberty,—,—
 John Stuart Mill,Considerations on Representative Government,✔,✔,Yes,,https://www.gutenberg.org/ebooks/5669,
 John Stuart Mill,Utilitarianism,✔,✔,"Short, omnibus?",,https://www.gutenberg.org/ebooks/11224,
@@ -228,7 +246,9 @@ Antoine Laurent Lavoisier,Elements of Chemistry,✔,✔,"No, outdated science",�
 Jean Baptiste Joseph Fourier,Analytical Theory of Heat,✔,✔,"No, outdated science",—,—,—
 Michael Faraday,Experimental Researches in Electricity,✔,✔,"No, outdated science",—,—,—
 Georg Wilhelm Friedrich Hegel,The Philosophy of Right,✔,✔,Yes,,,
-Georg Wilhelm Friedrich Hegel,The Philosophy of History,✔,✔,Yes,,https://www.gutenberg.org/ebooks/51635 https://www.gutenberg.org/ebooks/51636 https://www.gutenberg.org/ebooks/58169,
+Georg Wilhelm Friedrich Hegel,The Philosophy of History,✔,✔,Yes,,"https://www.gutenberg.org/ebooks/51635
+https://www.gutenberg.org/ebooks/51636
+https://www.gutenberg.org/ebooks/58169",
 Johann Wolfgang von Goethe,Faust,✔,✔,Yes,,https://gutenberg.org/ebooks/14591,
 Herman Melville,"Moby Dick; or, The Whale",✔,✔,Yes,herman-melville/moby-dick,—,—
 Charles Darwin,The Origin of Species by Means of Natural Selection,✔,✔,Yes,charles-darwin/the-origin-of-species,—,—
@@ -237,7 +257,8 @@ Karl Marx,Capital,✔,✔,Yes,,,
 Karl Marx and Friedrich Engels,Manifesto of the Communist Party,✔,✔,Yes,karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore,—,—
 Count Leo Tolstoy,War and Peace,✔,✔,Yes,leo-tolstoy/war-and-peace/louise-maude_aylmer-maude,—,—
 Fyodor Mikhailovich Dostoevsky,The Brothers Karamazov,✔,✔,Yes,fyodor-dostoevsky/the-brothers-karamazov/constance-garnett,—,—
-William James,The Principles of Psychology,✔,✔,Yes,,https://gutenberg.org/ebooks/57628 https://gutenberg.org/ebooks/57634,
+William James,The Principles of Psychology,✔,✔,Yes,,"https://gutenberg.org/ebooks/57628
+https://gutenberg.org/ebooks/57634",
 Sigmund Freud,The Origin and Development of Psycho‐Analysis,✔,✔,???,,,
 Sigmund Freud,Selected Papers on Hysteria,✔,✔,???,,,
 Sigmund Freud,The Sexual Enlightenment of Children,✔,✔,???,,,
@@ -256,11 +277,13 @@ Sigmund Freud,"Inhibitions, Symptoms, and Anxiety",✔,✔,???,,,
 Sigmund Freud,Thoughts for the Times on War and Death,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/35875,
 Sigmund Freud,Civilization and Its Discontents,✔,✔,???,,,
 Sigmund Freud,New Introductory Lectures on Psycho‐Analysis,✔,✔,???,,,
-John Calvin,Institutes of the Christian Religion,✗,✔,Yes,,https://gutenberg.org/ebooks/author/6425 https://gutenberg.org/ebooks/45001,
+John Calvin,Institutes of the Christian Religion,✗,✔,Yes,,"https://gutenberg.org/ebooks/author/6425
+https://gutenberg.org/ebooks/45001",
 Erasmus,The Praise of Folly,✗,✔,Yes,,https://gutenberg.org/ebooks/30201,
 Molière,The School for Wives,✗,✔,Yes,,,
 Molière,The Critique of the School for Wives,✗,✔,Yes,,,
-Molière,Tartuffe,✗,✔,Yes,,https://gutenberg.org/ebooks/2027 https://gutenberg.org/ebooks/28488,
+Molière,Tartuffe,✗,✔,Yes,,"https://gutenberg.org/ebooks/2027
+https://gutenberg.org/ebooks/28488",
 Molière,Don Juan,✗,✔,Yes,,,
 Molière,The Miser,✗,✔,Yes,,https://gutenberg.org/ebooks/6923,
 Molière,The Miser,✗,✔,Yes,,https://gutenberg.org/ebooks/6923,
@@ -272,7 +295,8 @@ Voltaire,Candide,✗,✔,Yes,voltaire/candide/the-modern-library,—,—
 Denis Diderot,Rameau’s Nephew,✗,✔,"No, short",,https://gutenberg.org/ebooks/1977,
 Søren Kierkegaard,Fear and Trembling,✗,✔,Yes,,,
 Friedrich Nietzsche,Beyond Good and Evil,✗,✔,Yes,friedrich-nietzsche/beyond-good-and-evil/helen-zimmern,—,—
-Alexis de Tocqueville,Democracy in America,✗,✔,Yes,,https://gutenberg.org/ebooks/815 https://gutenberg.org/ebooks/816,
+Alexis de Tocqueville,Democracy in America,✗,✔,Yes,,"https://gutenberg.org/ebooks/815
+https://gutenberg.org/ebooks/816",
 Honoré de Balzac,Cousin Bette,✗,✔,Yes,,https://gutenberg.org/ebooks/1749,
 Jane Austen,Emma,✗,✔,Yes,jane-austen/emma,—,—
 George Eliot,Middlemarch,✗,✔,Yes,george-eliot/middlemarch,—,—
