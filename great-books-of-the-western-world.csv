@@ -256,35 +256,76 @@ Sigmund Freud,"Inhibitions, Symptoms, and Anxiety",✔,✔,???,,,
 Sigmund Freud,Thoughts for the Times on War and Death,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/35875,
 Sigmund Freud,Civilization and Its Discontents,✔,✔,???,,,
 Sigmund Freud,New Introductory Lectures on Psycho‐Analysis,✔,✔,???,,,
-John Calvin,Institutes of the Christian Religion,✔,✔,Yes,,https://gutenberg.org/ebooks/author/6425 https://gutenberg.org/ebooks/45001,
-Erasmus,The Praise of Folly,✔,✔,Yes,,https://gutenberg.org/ebooks/30201,
-Molière,The School for Wives,✔,✔,Yes,,,
-Molière,The Critique of the School for Wives,✔,✔,Yes,,,
-Molière,Tartuffe,✔,✔,Yes,,https://gutenberg.org/ebooks/2027 https://gutenberg.org/ebooks/28488,
-Molière,Don Juan,✔,✔,Yes,,,
-Molière,The Miser,✔,✔,Yes,,https://gutenberg.org/ebooks/6923,
-Molière,The Miser,✔,✔,Yes,,https://gutenberg.org/ebooks/6923,
-Molière,The Would‐Be Gentleman,✔,✔,Yes,,https://gutenberg.org/ebooks/2992,
-Molière,The Imaginary Invalid,✔,✔,Yes,,https://gutenberg.org/ebooks/9070,
-Jean Racine,Bérénice,✔,✔,Yes,,,
-Jean Racine,Phèdre,✔,✔,Yes,,https://gutenberg.org/ebooks/1977,
+John Calvin,Institutes of the Christian Religion,✗,✔,Yes,,https://gutenberg.org/ebooks/author/6425 https://gutenberg.org/ebooks/45001,
+Erasmus,The Praise of Folly,✗,✔,Yes,,https://gutenberg.org/ebooks/30201,
+Molière,The School for Wives,✗,✔,Yes,,,
+Molière,The Critique of the School for Wives,✗,✔,Yes,,,
+Molière,Tartuffe,✗,✔,Yes,,https://gutenberg.org/ebooks/2027 https://gutenberg.org/ebooks/28488,
+Molière,Don Juan,✗,✔,Yes,,,
+Molière,The Miser,✗,✔,Yes,,https://gutenberg.org/ebooks/6923,
+Molière,The Miser,✗,✔,Yes,,https://gutenberg.org/ebooks/6923,
+Molière,The Would‐Be Gentleman,✗,✔,Yes,,https://gutenberg.org/ebooks/2992,
+Molière,The Imaginary Invalid,✗,✔,Yes,,https://gutenberg.org/ebooks/9070,
+Jean Racine,Bérénice,✗,✔,Yes,,,
+Jean Racine,Phèdre,✗,✔,Yes,,https://gutenberg.org/ebooks/1977,
 Voltaire,Candide,✗,✔,Yes,voltaire/candide/the-modern-library,—,—
-Denis Diderot,Rameau’s Nephew,✔,✔,"No, short",,https://gutenberg.org/ebooks/1977,
-Søren Kierkegaard,Fear and Trembling,✔,✔,Yes,,,
+Denis Diderot,Rameau’s Nephew,✗,✔,"No, short",,https://gutenberg.org/ebooks/1977,
+Søren Kierkegaard,Fear and Trembling,✗,✔,Yes,,,
 Friedrich Nietzsche,Beyond Good and Evil,✗,✔,Yes,friedrich-nietzsche/beyond-good-and-evil/helen-zimmern,—,—
-Alexis de Tocqueville,Democracy in America,✔,✔,Yes,,https://gutenberg.org/ebooks/815 https://gutenberg.org/ebooks/816,
-Honoré de Balzac,Cousin Bette,✔,✔,Yes,,https://gutenberg.org/ebooks/1749,
+Alexis de Tocqueville,Democracy in America,✗,✔,Yes,,https://gutenberg.org/ebooks/815 https://gutenberg.org/ebooks/816,
+Honoré de Balzac,Cousin Bette,✗,✔,Yes,,https://gutenberg.org/ebooks/1749,
 Jane Austen,Emma,✗,✔,Yes,jane-austen/emma,—,—
 George Eliot,Middlemarch,✗,✔,Yes,george-eliot/middlemarch,—,—
-Charles Dickens,Little Dorrit,✔,✔,Yes,,https://gutenberg.org/ebooks/963,
+Charles Dickens,Little Dorrit,✗,✔,Yes,,https://gutenberg.org/ebooks/963,
 Mark Twain,Huckleberry Finn,✗,✔,Yes,mark-twain/the-adventures-of-huckleberry-finn,—,—
 Henrik Ibsen,A Doll’s House,✗,✔,Yes,henrik-ibsen/a-dolls-house/r-farquharson-sharp,—,—
-Henrik Ibsen,The Wild Duck,✔,✔,Yes,,,
+Henrik Ibsen,The Wild Duck,✗,✔,Yes,,,
 Henrik Ibsen,Hedda Gabler,✗,✔,Yes,henrik-ibsen/hedda-gabler/edmund-gosse_william-archer,—,—
-Henrik Ibsen,The Master Builder,✔,✔,Yes,,https://gutenberg.org/ebooks/4070,
+Henrik Ibsen,The Master Builder,✗,✔,Yes,,https://gutenberg.org/ebooks/4070,
+William James,Pragmatism,✗,✔,Yes,,https://gutenberg.org/ebooks/5116,
+Henry Bergson,An Introduction to Metaphysics,✗,✔,???,,,
+John Dewey,Experience and Education,✗,✔,"No, copyrighted",—,—,—
+Alfred North Whitehead,Science and the Modern World,✗,✔,Yes,,,
 Bertrand Russell,The Problems of Philosophy,✗,✔,Yes,bertrand-russell/the-problems-of-philosophy,—,—
+Martin Heidegger,What Is Metaphysics?,✗,✔,"No, translation copyrighted",—,—,—
+Ludwig Wittgenstein,Philosophical Investigations,✗,✔,"No, copyrighted",—,—,—
+Karl Barth,The Word of God and the Word of Man,✗,✔,"No, translation copyrighted",—,—,—
+Henri Poincaré,Science and Hypothesis,✗,✔,Yes,,https://gutenberg.org/ebooks/37157,
+Max Planck,Scientific Autobiography and Other Papers,✗,✔,"No, translation copyrighted",—,—,—
+Henry North Whitehead,An Introduction to Mathematics,✗,✔,Yes,,https://gutenberg.org/ebooks/41568,
+Albert Einstein,Relativity: The Special and the General Theory,✗,✔,Yes,,https://gutenberg.org/ebooks/5001,
+Arthur Eddington,The Expanding Universe,✗,✔,Copyright expires 2029,—,—,—
+Niels Bohr,Atomic Theory and the Description of Nature,✗,✔,Copyright expires 2030,—,—,—
+Niels Bohr,Discussion with Einstein on Epistemology,✗,✔,Too short,—,—,—
+G. H. Hardy,A Mathematician’s Apology,✗,✔,"No, copyrighted",—,—,—
+Werner Heisenberg,Physics and Philosophy,✗,✔,"No, copyrighted",—,—,—
+Erwin Schrödinger,What Is Life?,✗,✔,"No, copyrighted",—,—,—
+Theodosius Dobzhansky,Genetics and the Origin of Species,✗,✔,"No, copyrighted",—,—,—
+C. H. Waddington,The Nature of Life,✗,✔,"No, copyrighted",—,—,—
+Thorstein Veblen,The Theory of the Leisure Class,✗,✔,Yes,thorstein-veblen/the-theory-of-the-leisure-class,—,—
+R. H. Tawney,The Acquisitive Society,✗,✔,Yes,,https://gutenberg.org/ebooks/33741,
+John Maynard Keynes,"The General Theory of Employment, Interest and Money",✗,✔,"No, copyrighted",—,—,—
+Sir James George Frazer,The Golden Bough,✗,✔,Yes,,https://gutenberg.org/ebooks/3623,
+Max Weber,Essays in Sociology,✗,✔,"No, copyrighted",—,—,—
+Johan Huizinga,The Autumn of the Middle Ages,✗,✔,Yes,,,
+Claude Lévi‐Strauss,Structural Anthropology,✗,✔,"No, copyrighted",—,—,—
+Henry James,The Beast in the Jungle,✗,✔,Yes,,https://gutenberg.org/ebooks/1093,
+George Bernard Shaw,Saint Joan,✗,✔,Yes,,https://gutenberg.org/ebooks/1093,
 Joseph Conrad,Heart of Darkness,✗,✔,Yes,joseph-conrad/heart-of-darkness,—,—
+Anton Chekhov,Uncle Vanya,✗,✔,Yes,,https://gutenberg.org/ebooks/1756,
 Luigi Pirandello,Six Characters in Search of an Author,✗,✔,Yes,luigi-pirandello/six-characters-in-search-of-an-author/edward-storer,—,—
+Marcel Proust,Remembrance of Things Past: “Swann in Love”,✗,✔,Yes,,https://gutenberg.org/ebooks/7178,
+Willa Cather,A Lost Lady,✗,✔,Yes,,https://gutenberg.org/ebooks/65636,
+Thomas Mann,Death in Venice,✗,✔,Yes,,,
 James Joyce,A Portrait of the Artist as a Young Man,✗,✔,Yes,james-joyce/a-portrait-of-the-artist-as-a-young-man,—,—
+Virginia Woolf,To the Lighthouse,✗,✔,Copyright expires 2023,,,
+Franz Kafka,The Metamorphosis,✗,✔,"No, translation copyrighted",—,—,—
+D. H. Lawrence,The Prussian Officer,✗,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/22480,
 T. S. Eliot,The Waste Land,✗,✔,"Yes, Omnibus",t-s-eliot/poetry,—,—
+Eugene O’Neill,Mourning Becomes Electra,✗,✔,Copyright expires 2027,,,
 F. Scott Fitzgerald,The Great Gatsby,✗,✔,Yes,f-scott-fitzgerald/the-great-gatsby,—,—
+William Faulkner,A Rose for Emily,✗,✔,Copyright expires 2026,,,
+Bertolt Brecht,Mother Courage and Her Children,✗,✔,"No, copyrighted",,,
+Ernest Hemingway,The Short Happy Life of Francis Macomber,✗,✔,"No, copyrighted",,,
+George Orwell,Animal Farm,✗,✔,"No, copyrighted",,,
+Samuel Beckett,Waiting for Godot,✗,✔,"No, copyrighted",,,
