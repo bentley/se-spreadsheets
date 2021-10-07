@@ -8,8 +8,8 @@ Walter Scott,“The Two Drovers” from Chronicles of the Canongate,Yes,Yes,
 Joseph Conrad,Short story “Youth”,Yes,Yes,
 Voltaire,Novella “Micromégas”,Yes,Yes?,
 Oscar Wilde,“The Happy Prince”,Yes,Yes,oscar-wilde/childrens-stories
-Edgar Allan Poe,"“The Telltale Heart”;
-“The Masque of the Red Death”",Yes,Yes,edgar-allan-poe/short-fiction
+Edgar Allan Poe,Short story “The Telltale Heart”,Yes,Yes,edgar-allan-poe/short-fiction
+”,Short story “The Masque of the Red Death”,Yes,Yes,”
 Robert Louis Stevenson,Dr. Jekyll and Mr. Hyde,Yes,Yes,robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde
 Mark Twain,Short story “The Man That Corrupted Hadleyburg”,Yes,Yes,
 Charles Dickens,“Trial of Bardell against Pickwick” from The Pickwick Papers,Yes,Yes,
@@ -36,4 +36,6 @@ D. H. Lawrence,Short story “The Rocking‐Horse Winner”,2022,Yes,
 Henry James,Short story “The Pupil”,Yes,Yes,
 Thomas Mann,Novella “Mario and the Magician”,2025,Yes,
 Isak Dinesen,Short story “Sorrow‐Acre”,2038,—,—
-Leo Tolstoy,Short stories “The Death of Ivan Ilyich”; “The Three Hermits”; “What Men Live By”,Yes,Yes,leo-tolstoy/short-fiction/louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_leo-weiner_r-s-townsend_hagberg-wright_benjamin-tucker_everymans-library_vladimir-chertkov_isabella-fyvie-mayo
+Leo Tolstoy,Short story “The Death of Ivan Ilyich”,Yes,Yes,leo-tolstoy/short-fiction/louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_leo-weiner_r-s-townsend_hagberg-wright_benjamin-tucker_everymans-library_vladimir-chertkov_isabella-fyvie-mayo
+”,Short story “The Three Hermits”,Yes,Yes,”
+”,Short story “What Men Live By”,Yes,Yes,”
