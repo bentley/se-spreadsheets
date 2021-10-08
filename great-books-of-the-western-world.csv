@@ -1,4 +1,4 @@
-Author,Work,Great Books 1952,Great Books 1990,Suitable for SE,Exists on SE,Exists elsewhere,Additional collections
+Author,Work,1952 Ed.,1990 Ed.,Suitable for SE,Exists on SE,Exists elsewhere,Additional collections
 Homer,The Iliad,✔,✔,Yes,homer/the-iliad/william-cullen-bryant,—,—
 Homer,The Odyssey,✔,✔,Yes,homer/the-odyssey/william-cullen-bryant,—,—
 Aeschylus,The Suppliant Maidens,✔,✔,Yes,,https://gutenberg.org/ebooks/8714,
@@ -183,7 +183,7 @@ William Shakespeare,"Pericles, Prince of Tyre",✔,✔,Yes,,,
 William Shakespeare,Cymbeline,✔,✔,Yes,,,
 William Shakespeare,The Winter’s Tale,✔,✔,Yes,,,
 William Shakespeare,The Tempest,✔,✔,Yes,william-shakespeare/the-tempest,—,—
-William Shakespeare,The Famous History of the Life of King Henry the Eighth,✔,✔,Yes,william-shakespeare/henry-viii,—,—
+William Shakespeare,Henry VIII,✔,✔,Yes,william-shakespeare/henry-viii,—,—
 William Shakespeare,Sonnets,✔,✔,Yes,william-shakespeare/poetry,—,—
 William Gilbert,On the Loadstone and Magnetic Bodies,✔,✔,"No, old science",—,—,—
 Galileo Galilei,Dialogues Concerning the Two New Sciences,✔,✔,Yes,,,
@@ -224,7 +224,7 @@ Jean‐Jacques Rousseau,A Discourse on the Origin of Inequality,✔,✔,"Yes, om
 https://gutenberg.org/ebooks/46333",
 Jean‐Jacques Rousseau,A Discourse on Political Economy,✔,✔,"Yes, omnibus",,https://gutenberg.org/ebooks/46333,
 Jean‐Jacques Rousseau,The Social Contract,✔,✔,Yes,,https://gutenberg.org/ebooks/46333,
-Adam Smith,An Inquiry into the Nature and Causes of the Wealth of Nations,✔,✔,Yes,adam-smith/the-wealth-of-nations,—,—
+Adam Smith,The Wealth of Nations,✔,✔,Yes,adam-smith/the-wealth-of-nations,—,—
 Edward Gibbon,The Decline and Fall of the Roman Empire,✔,✔,Yes,,https://gutenberg.org/ebooks/25717,
 Immanuel Kant,The Critique of Pure Reason,✔,✔,Yes,,https://gutenberg.org/ebooks/4280,
 Immanuel Kant,Fundamental Principles of the Metaphysic of Morals,✔,✔,Yes,,https://gutenberg.org/ebooks/5682,
@@ -235,9 +235,7 @@ Henry Fielding,"The History of Tom Jones, a Foundling",✔,✗,Yes,henry-fieldin
 American State Papers,Declaration of Independence,✔,✔,No,—,—,—
 American State Papers,Articles of Confederation,✔,✔,No,—,—,—
 American State Papers,The Constitution of the United States of America,✔,✔,No,—,—,—
-"Alexander Hamilton,
-James Madison,
-John Jay",The Federalist,✔,✔,Yes,alexander-hamilton_john-jay_james-madison/the-federalist-papers,—,—
+"Hamilton, Madison, Jay",The Federalist,✔,✔,Yes,alexander-hamilton_john-jay_james-madison/the-federalist-papers,—,—
 John Stuart Mill,On Liberty,✔,✔,Yes,john-stuart-mill/on-liberty,—,—
 John Stuart Mill,Considerations on Representative Government,✔,✔,Yes,,https://www.gutenberg.org/ebooks/5669,
 John Stuart Mill,Utilitarianism,✔,✔,"Short, omnibus?",,https://www.gutenberg.org/ebooks/11224,
