@@ -1,0 +1,108 @@
+Position,Author,Work,PD,Suitable for SE,Exists on SE
+1,James Joyce,Ulysses,Yes,Yes,
+2,F. Scott Fitzgerald,The Great Gatsby,Yes,Yes,f-scott-fitzgerald/the-great-gatsby
+3,James Joyce,A Portrait of the Artist as a Young Man,Yes,Yes,james-joyce/a-portrait-of-the-artist-as-a-young-man
+4,Vladimir Nabokov,Lolita,2051,—,—
+5,Aldous Huxley,Brave New World,2028,Yes,
+6,William Faulkner,The Sound and the Fury,2025,Yes,
+7,Joseph Heller,Catch-22,2057,—,—
+8,Arthur Koestler,Darkness at Noon,2036,—,—
+9,D.H. Lawrence,Sons and Lovers,Yes,Yes,d-h-lawrence/sons-and-lovers
+10,John Steinbeck,The Grapes of Wrath,2035,—,—
+11,Malcolm Lowry,Under the Volcano,2043,—,—
+12,Samuel Butler,The Way of All Flesh,Yes,Yes,samuel-butler/the-way-of-all-flesh
+13,George Orwell,1984,2045,—,—
+14,Robert Graves,"I, Claudius",2030,Yes,
+15,Virginia Woolf,To the Lighthouse,2023,Yes,
+16,Theodore Dreiser,An American Tragedy,Yes,Yes,theodore-dreiser/an-american-tragedy
+17,Carson McCullers,The Heart is a Lonely Hunter,2036,Yes,
+18,Kurt Vonnegut,Slaughterhouse-Five,2065,—,—
+19,Ralph Ellison,Invisible Man,2048,—,—
+20,Richard Wright,Native Son,2036,—,—
+21,Saul Bellow,Henderson the Rain King,2055,—,—
+22,John O’Hara,Appointment in Samarra,1930,Yes,
+23,John Dos Passos,The 42nd Parallel,2026,Yes,
+23,John Dos Passos,1919,2028,Yes,
+23,John Dos Passos,The Big Money,2032,Yes,
+24,Sherwood Anderson,"Winesburg, Ohio",Yes,Yes,sherwood-anderson/winesburg-ohio
+25,E.M. Forster,A Passage to India,Yes,Yes,e-m-forster/a-passage-to-india
+26,Henry James,The Wings of the Dove,Yes,Yes,henry-james/the-wings-of-the-dove
+27,Henry James,The Ambassadors,Yes,Yes,
+28,F. Scott Fitzgerald,Tender is the Night,2030,Yes,
+29,James T. Farrell,Young Lonigan,2028,Yes,
+29,James T. Farrell,The Young Manhood of Studs Lonigan,2030,Yes,
+29,James T. Farrell,Judgment Day,2031,Yes,
+30,Ford Madox Ford,The Good Soldier,Yes,Yes,ford-madox-ford/the-good-soldier
+31,George Orwell,Animal Farm,2041,—,—
+32,Henry James,The Golden Bowl,Yes,Yes,henry-james/the-golden-bowl
+33,Theodore Dreiser,Sister Carrie,Yes,Yes,theodore-dreiser/sister-carrie
+34,Evelyn Waugh,A Handful of Dust,1930,Yes,
+35,William Faulkner,As I Lay Dying,2026,Yes,
+36,Robert Penn Warren,All the King’s Men,1942,—,—
+37,Thornton Wilder,The Bridge of San Luis Rey,2023,Yes,
+38,E.M. Forster,Howards End,Yes,Yes,e-m-forster/howards-end
+39,James Baldwin,Go Tell It On the Mountain,2049,—,—
+40,Graham Greene,The Heart of the Matter,2044,—,—
+41,William Golding,Lord of the Flies,2050,—,—
+42,James Dickey,Deliverance,2066,—,—
+43,Anthony Powell,A Dance to the Music of Time,2047,—,—
+44,Aldous Huxley,Point Counter Point,2024,Yes,
+45,Ernest Hemingway,The Sun Also Rises,2022,Yes,
+46,Joseph Conrad,The Secret Agent,Yes,Yes,joseph-conrad/the-secret-agent
+47,Joseph Conrad,Nostromo,Yes,Yes,joseph-conrad/nostromo
+48,D.H. Lawrence,The Rainbow,Yes,Yes,d-h-lawrence/the-rainbow
+49,D.H. Lawrence,Women in Love,Yes,Yes,
+50,Henry Miller,Tropic of Cancer,2030,Yes,
+51,Norman Mailer,The Naked and the Dead,2044,—,—
+52,Philip Roth,Portnoy’s Complaint,2065,—,—
+53,Vladimir Nabokov,Pale Fire,2058,—,—
+54,William Faulkner,Light in August,2028,Yes,
+55,Jack Kerouac,On the Road,2053,—,—
+56,Dashiell Hammett,The Maltese Falcon,2026,Yes,
+57,Ford Madox Ford,Some Do Not…,Yes,Yes,ford-madox-ford/some-do-not
+57,Ford Madox Ford,No More Parades,Yes,Yes,ford-madox-ford/no-more-parades
+57,Ford Madox Ford,A Man Could Stand Up—,2022,Yes,
+57,Ford Madox Ford,Last Post,2024,Yes,
+58,Edith Wharton,The Age of Innocence,Yes,Yes,edith-wharton/the-age-of-innocence
+59,Max Beerbohm,Zuleika Dobson,Yes,Yes,max-beerbohm/zuleika-dobson
+60,Walker Percy,The Moviegoer,2057,—,—
+61,Willa Cather,Death Comes for the Archbishop,2023,Yes,
+62,James Jones,From Here to Eternity,2047,—,—
+63,John Cheever,The Wapshot Chronicle,2053,—,—
+64,J.D. Salinger,The Catcher in the Rye,2042,—,—
+65,Anthony Burgess,A Clockwork Orange,2058,—,—
+66,W. Somerset Maugham,Of Human Bondage,Yes,Yes,w-somerset-maugham/of-human-bondage
+67,Joseph Conrad,Heart of Darkness,Yes,Yes,joseph-conrad/heart-of-darkness
+68,Sinclair Lewis,Main Street,Yes,Yes,sinclair-lewis/main-street
+69,Edith Wharton,The House of Mirth,Yes,Yes,edith-wharton/the-house-of-mirth
+70,Lawrence Durrell,The Alexandria Quartet,2053,—,—
+71,Richard Hughes,A High Wind in Jamaica,2025,Yes,
+72,V.S. Naipaul,A House for Mr Biswas,2057,—,—
+73,Nathanael West,The Day of the Locust,2035,—,—
+74,Ernest Hemingway,A Farewell to Arms,2025,Yes,
+75,Evelyn Waugh,Scoop,2034,—,—
+76,Muriel Spark,The Prime of Miss Jean Brodie,2057,—,—
+77,James Joyce,Finnegans Wake,2035,—,—
+78,Rudyard Kipling,Kim,Yes,Yes,rudyard-kipling/kim
+79,E.M. Forster,A Room with a View,Yes,Yes,e-m-forster/a-room-with-a-view
+80,Evelyn Waugh,Brideshead Revisited,2041,—,—
+81,Saul Bellow,The Adventures of Augie March,2049,—,—
+82,Wallace Stegner,Angle of Repose,2064,—,—
+83,V.S. Naipaul,A Bend in the River,2089,—,—
+84,Elizabeth Bowen,The Death of the Heart,2034,—,—
+85,Joseph Conrad,Lord Jim,Yes,Yes,joseph-conrad/lord-jim
+86,E.L. Doctorow,Ragtime,2086,—,—
+87,Arnold Bennett,The Old Wives’ Tale,Yes,Yes,
+88,Jack London,The Call of the Wild,Yes,Yes,jack-london/the-call-of-the-wild
+89,Henry Green,Loving,2041,—,—
+90,Salman Rushdie,Midnight’s Children,2092+,—,—
+91,Erskine Caldwell,Tobacco Road,2028,Yes,
+92,William Kennedy,Ironweed,2092+,—,—
+93,John Fowles,The Magus,2061,—,—
+94,Jean Rhys,Wide Sargasso Sea,2062,—,—
+95,Iris Murdoch,Under the Net,2050,—,—
+96,William Styron,Sophie’s Choice,2077,—,—
+97,Paul Bowles,The Sheltering Sky,2045,—,—
+98,James M. Cain,The Postman Always Rings Twice,2030,Yes,
+99,J.P. Donleavy,The Ginger Man,2051,—,—
+100,Booth Tarkington,The Magnificent Ambersons,Yes,Yes,booth-tarkington/the-magnificent-ambersons
