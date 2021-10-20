@@ -111,7 +111,7 @@ Archimedes,The Method Treating of Mechanical Problems,✔,✔,Yes,
 Apollonius of Perga,On Conic Sections,✔,✔,???,
 Nichomachus of Gerasa,Introduction to Arithmetic,✔,✔,???,
 Lucretius,On the Nature of Things,✔,✔,Yes,
-Epictetus,The Discourses,✔,✔,Yes,
+Epictetus,The Discourses,✔,✔,Yes,epictetus/discourses
 Marcus Aurelius,The Meditations,✔,✔,Yes,marcus-aurelius/meditations/george-long
 Virgil,Eclogues,✔,✔,Yes,
 Virgil,Georgics,✔,✔,Yes,
@@ -140,14 +140,14 @@ William Shakespeare,The Third Part of King Henry the Sixth,✔,✔,Yes,william-s
 William Shakespeare,The Tragedy of Richard the Third,✔,✔,Yes,william-shakespeare/richard-iii
 William Shakespeare,The Comedy of Errors,✔,✔,Yes,william-shakespeare/the-comedy-of-errors
 William Shakespeare,Titus Andronicus,✔,✔,Yes,
-William Shakespeare,The Taming of the Shrew,✔,✔,Yes,
-William Shakespeare,The Two Gentlemen of Verona,✔,✔,Yes,
+William Shakespeare,The Taming of the Shrew,✔,✔,Yes,william-shakespeare/the-taming-of-the-shrew
+William Shakespeare,The Two Gentlemen of Verona,✔,✔,Yes,william-shakespeare/the-two-gentlemen-of-verona
 William Shakespeare,Love’s Labour’s Lost,✔,✔,Yes,
 William Shakespeare,Romeo and Juliet,✔,✔,Yes,william-shakespeare/romeo-and-juliet
-William Shakespeare,The Tragedy of King Richard the Second,✔,✔,Yes,
+William Shakespeare,The Tragedy of King Richard the Second,✔,✔,Yes,william-shakespeare/richard-ii
 William Shakespeare,A Midsummer Night’s Dream,✔,✔,Yes,william-shakespeare/a-midsummer-nights-dream
-William Shakespeare,The Life and Death of King John,✔,✔,Yes,
-William Shakespeare,The Merchant of Venice,✔,✔,Yes,
+William Shakespeare,The Life and Death of King John,✔,✔,Yes,william-shakespeare/king-john
+William Shakespeare,The Merchant of Venice,✔,✔,Yes,william-shakespeare/the-merchant-of-venice
 William Shakespeare,The First Part of King Henry the Fourth,✔,✔,Yes,william-shakespeare/henry-iv-part-i
 William Shakespeare,The Second Part of King Henry the Fourth,✔,✔,Yes,william-shakespeare/henry-iv-part-ii
 William Shakespeare,Much Ado About Nothing,✔,✔,Yes,william-shakespeare/much-ado-about-nothing
@@ -163,10 +163,10 @@ William Shakespeare,Measure for Measure,✔,✔,Yes,
 William Shakespeare,"Othello, the Moor of Venice",✔,✔,Yes,william-shakespeare/othello
 William Shakespeare,King Lear,✔,✔,Yes,william-shakespeare/king-lear
 William Shakespeare,Macbeth,✔,✔,Yes,william-shakespeare/macbeth
-William Shakespeare,Antony and Cleopatra,✔,✔,Yes,
-William Shakespeare,Coriolanus,✔,✔,Yes,
-William Shakespeare,Timon of Athens,✔,✔,Yes,
-William Shakespeare,"Pericles, Prince of Tyre",✔,✔,Yes,
+William Shakespeare,Antony and Cleopatra,✔,✔,Yes,william-shakespeare/antony-and-cleopatra
+William Shakespeare,Coriolanus,✔,✔,Yes,william-shakespeare/coriolanus
+William Shakespeare,Timon of Athens,✔,✔,Yes,william-shakespeare/timon-of-athens
+William Shakespeare,"Pericles, Prince of Tyre",✔,✔,Yes,william-shakespeare/pericles
 William Shakespeare,Cymbeline,✔,✔,Yes,
 William Shakespeare,The Winter’s Tale,✔,✔,Yes,
 William Shakespeare,The Tempest,✔,✔,Yes,william-shakespeare/the-tempest

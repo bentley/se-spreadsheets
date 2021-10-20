@@ -27,7 +27,7 @@ Position,Author,Work,PD,Suitable for SE,Exists on SE
 24,Sherwood Anderson,"Winesburg, Ohio",Yes,Yes,sherwood-anderson/winesburg-ohio
 25,E.M. Forster,A Passage to India,Yes,Yes,e-m-forster/a-passage-to-india
 26,Henry James,The Wings of the Dove,Yes,Yes,henry-james/the-wings-of-the-dove
-27,Henry James,The Ambassadors,Yes,Yes,
+27,Henry James,The Ambassadors,Yes,Yes,henry-james/the-ambassadors
 28,F. Scott Fitzgerald,Tender is the Night,2030,Yes,
 29,James T. Farrell,Young Lonigan,2028,Yes,
 29,James T. Farrell,The Young Manhood of Studs Lonigan,2030,Yes,
@@ -47,7 +47,7 @@ Position,Author,Work,PD,Suitable for SE,Exists on SE
 42,James Dickey,Deliverance,2066,—,—
 43,Anthony Powell,A Dance to the Music of Time,2047,—,—
 44,Aldous Huxley,Point Counter Point,2024,Yes,
-45,Ernest Hemingway,The Sun Also Rises,2022,Yes,
+45,Ernest Hemingway,The Sun Also Rises,2022,Yes,ernest-hemingway/the-sun-also-rises
 46,Joseph Conrad,The Secret Agent,Yes,Yes,joseph-conrad/the-secret-agent
 47,Joseph Conrad,Nostromo,Yes,Yes,joseph-conrad/nostromo
 48,D.H. Lawrence,The Rainbow,Yes,Yes,d-h-lawrence/the-rainbow
@@ -61,7 +61,7 @@ Position,Author,Work,PD,Suitable for SE,Exists on SE
 56,Dashiell Hammett,The Maltese Falcon,2026,Yes,
 57,Ford Madox Ford,Some Do Not…,Yes,Yes,ford-madox-ford/some-do-not
 57,Ford Madox Ford,No More Parades,Yes,Yes,ford-madox-ford/no-more-parades
-57,Ford Madox Ford,A Man Could Stand Up—,2022,Yes,
+57,Ford Madox Ford,A Man Could Stand Up—,2022,Yes,ford-madox-ford/a-man-could-stand-up
 57,Ford Madox Ford,Last Post,2024,Yes,
 58,Edith Wharton,The Age of Innocence,Yes,Yes,edith-wharton/the-age-of-innocence
 59,Max Beerbohm,Zuleika Dobson,Yes,Yes,max-beerbohm/zuleika-dobson

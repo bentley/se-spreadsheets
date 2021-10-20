@@ -1,0 +1,103 @@
+1,George Eliot,Middlemarch,Yes,Yes,george-eliot/middlemarch
+2,Virginia Woolf,To the Lighthouse,2023,Yes,
+3,Virginia Woolf,Mrs. Dalloway,Yes,Yes,virginia-woolf/mrs-dalloway
+4,Charles Dickens,Great Expectations,Yes,Yes,charles-dickens/great-expectations
+5,Charlotte Brontë,Jane Eyre,Yes,Yes,charlotte-bronte/jane-eyre
+6,Charles Dickens,Bleak House,Yes,Yes,charles-dickens/bleak-house
+7,Emily Brontë,Wuthering Heights,Yes,Yes,emily-bronte/wuthering-heights
+8,Charles Dickens,David Copperfield,Yes,Yes,charles-dickens/david-copperfield
+9,Mary Shelley,Frankenstein,Yes,Yes,mary-shelley/frankenstein
+10,William Makepeace Thackeray,Vanity Fair,Yes,Yes,william-makepeace-thackeray/vanity-fair
+11,Jane Austen,Pride and Prejudice,Yes,Yes,jane-austen/pride-and-prejudice
+12,George Orwell,Nineteen Eighty-Four,2045,—,—
+13,Ford Madox Ford,The Good Soldier,Yes,Yes,ford-madox-ford/the-good-soldier
+14,Samuel Richardson,Clarissa Harlowe,Yes,Yes,samuel-richardson/clarissa-harlowe
+15,Ian McEwan,Atonement,2092+,—,—
+16,Virginia Woolf,The Waves,2027,Yes,
+17,E. M. Forster,Howards End,Yes,Yes,e-m-forster/howards-end
+18,Kazuo Ishiguro,Remains of the Day,2092+,—,—
+19,Jane Austen,Emma,Yes,Yes,jane-austen/emma
+20,Jane Austen,Persuasion,Yes,Yes,jane-austen/persuasion
+21,Joseph Conrad,Heart of Darkness,Yes,Yes,joseph-conrad/heart-of-darkness
+22,Henry Fielding,"The History of Tom Jones, a Foundling",Yes,Yes,henry-fielding/the-history-of-tom-jones-a-foundling
+23,Thomas Hardy,Jude the Obscure,Yes,Yes,thomas-hardy/jude-the-obscure
+24,Doris Lessing,The Golden Notebook,2058,—,—
+25,Zadie Smith,White Teeth,2092+,—,—
+26,J. R. R. Tolkien,The Lord of the Rings,2050,—,—
+27,Daniel Defoe,Robinson Crusoe,Yes,Yes,daniel-defoe/the-life-and-adventures-of-robinson-crusoe
+28,Charlotte Brontë,Villette,Yes,Yes,charlotte-bronte/villette
+29,Monica Ali,Brick Lane,2092+,—,—
+30,Daniel Defoe,Moll Flanders,Yes,Yes,
+31,Graham Greene,The End of the Affair,2047,—,—
+32,E. M. Forster,A Room with a View,Yes,Yes,e-m-forster/a-room-with-a-view
+33,Kenneth Grahame,The Wind in the Willows,Yes,Yes,kenneth-grahame/the-wind-in-the-willows
+34,Kazuo Ishiguro,Never Let Me Go,2092+,—,—
+35,Tom McCarthy,Remainder,2092+,—,—
+36,Anthony Powell,A Dance to the Music of Time,2047,—,—
+37,Evelyn Waugh,Decline and Fall,2024,Yes,
+38,Jeanette Winterson,The Passion,2092+,—,—
+39,Julian Barnes, The Sense of an Ending,2092+,—,—
+40,Lewis Carroll,Alice’s Adventures in Wonderland,Yes,Yes,lewis-carroll/alices-adventures-in-wonderland/john-tenniel
+41,Charles Dickens,Dombey and Son,Yes,Yes,
+42,Graham Greene,Brighton Rock,2034,—,—
+43,Alan Hollinghurst,The Swimming Pool Library,2062+,—,—
+44,Hilary Mantel,Wolf Hall,2062+,—,—
+45,Sarah Waters,The Little Stranger,2062+,—,—
+46,Salman Rushdie,Midnight’s Children,2062+,—,—
+47,Laurence Sterne,"The Life and Opinions of Tristram Shandy, Gentleman",Yes,Yes,the-life-and-opinions-of-tristram-shandy-gentleman
+48,Kingsley Amis,Lucky Jim,2050,—,—
+49,A.S. Byatt,Possession,2092+,—,—
+50,E.M. Forster,A Passage to India,Yes,Yes,e-m-forster/a-passage-to-india
+51,Thomas Hardy,Tess of the d’Urbervilles,Yes,Yes,thomas-hardy/tess-of-the-durbervilles
+52,George Gissing,New Grub Street,Yes,Yes,george-gissing/new-grub-street
+53,Jean Rhys,Wide Sargasso Sea,2062,—,—
+54,Zadie Smith,NW,2092+,—,—
+55,Jonathan Swift,Gulliver’s Travels,Yes,Yes,jonathan-swift/gullivers-travels
+56,Jeanette Winterson,Oranges Are Not the Only Fruit,2092+,—,—
+57,Ford Madox Ford,Some Do Not…,Yes,Yes,ford-madox-ford/some-do-not
+57,Ford Madox Ford,No More Parades,Yes,Yes,ford-madox-ford/no-more-parades
+57,Ford Madox Ford,A Man Could Stand Up—,2022,Yes,ford-madox-ford/a-man-could-stand-up
+57,Ford Madox Ford,Last Post,2024,Yes,
+58,Henry Green,Loving,2041,—,—
+59,Alan Hollinghurst,The Line of Beauty,2092+,—,—
+60,D. H. Lawrence,Sons and Lovers,Yes,Yes,d-h-lawrence/sons-and-lovers
+61,Iris Murdoch,"The Sea, The Sea",2070,—,—
+62,George Orwell,Animal Farm,2041,—,—
+63,Muriel Spark,The Prime of Miss Jean Brodie,2057,—,—
+64,Anthony Trollope,The Way We Live Now,Yes,Yes,anthony-trollope/the-way-we-live-now
+65,Virginia Woolf,Orlando,2024,Yes,
+66,Jane Austen,Sense and Sensibility,Yes,Yes,jane-austen/sense-and-sensibility
+67,J. G. Ballard,Crash,2069,—,—
+68,Anthony Burgess,A Clockwork Orange,2058,—,—
+69,Joseph Conrad,Nostromo,Yes,Yes,joseph-conrad/nostromo
+70,George Eliot,Daniel Deronda,Yes,Yes,george-eliot/daniel-deronda
+71,Jane Gardam,Old Filth,2092+,—,—
+72,Graham Greene,The Heart of the Matter,2044,—,—
+73,Penelope Fitzgerald,The Blue Flower,2071,—,—
+74,Thomas Hardy,The Mayor of Casterbridge,Yes,Yes,thomas-hardy/the-mayor-of-casterbridge
+75,D. H. Lawrence,Women in Love,Yes,Yes,
+76,Andrea Levy,Small Island,2090,—,—
+77,W Somerset Maugham,Of Human Bondage,Yes,Yes,w-somerset-maugham/of-human-bondage
+78,V. S. Naipaul,A House for Mr Biswas,2057,—,—
+79,Philip Pullman,His Dark Materials,2092+,—,—
+80,Barbara Pym,Excellent Women,2048,—,—
+81,Paul Scott,The Jewel in the Crown,2062,—,—
+82,Edward St Aubyn,Patrick Melrose,2092+,—,—
+83,Anthony Trollope,Barchester Towers,Yes,Yes,anthony-trollope/barchester-towers
+84,Evelyn Waugh,Scoop,2034,—,—
+85,Pat Barker,Regeneration Trilogy,2092+,—,—
+86,Sybille Bedford,A Legacy,2052,—,—
+87,Arnold Bennett,The Old Wives’ Tale,Yes,Yes,
+88,Elizabeth Bowen,The Death of the Heart,2034,—,—
+89,Joyce Cary,The Horse’s Mouth,2040,—,—
+90,Wilkie Collins,The Woman in White,Yes,Yes,wilkie-collins/the-woman-in-white
+91,John Galsworthy,The Forsyte Saga,Yes,Yes,john-galsworthy/the-forsyte-saga
+92,Stella Gibbons,Cold Comfort Farm,2028,Yes,
+93,William Golding,Lord of the Flies,2050,—,—
+94,James Hogg,The Private Memoirs and Confessions of a Justified Sinner,Yes,Yes,
+95,Hanif Kureishi,The Buddha of Suburbia,2092+,—,—
+96,Doris Lessing,Memoirs of a Survivor,2070,—,—
+97,C. S. Lewis,The Chronicles of Narnia,2045,—,—
+98,Malcolm Lowry,Under the Volcano,2043,—,—
+99,Ali Smith,There but for the,2092+,—,—
+100,P. G. Wodehouse,The Code of the Woosters,2034,—,—
