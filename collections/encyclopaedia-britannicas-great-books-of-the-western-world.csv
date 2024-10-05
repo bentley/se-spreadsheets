@@ -7,7 +7,7 @@ Aeschylus,Seven Against Thebes,✔,✔,Yes,
 Aeschylus,Prometheus Bound,✔,✔,Yes,
 Aeschylus,Agamemnon,✔,✔,Yes,
 Aeschylus,Choephoroe,✔,✔,Yes,
-Aeschylus,The Eumenides,✔,✔,Yes,
+Aeschylus,The Eumenides,✔,✔,Yes,aeschylus/the-eumenides/gilbert-murray
 Sophocles,Oedipus the King,✔,✔,Yes,
 Sophocles,Oedipus at Colonus,✔,✔,Yes,
 Sophocles,Antigone,✔,✔,Yes,
@@ -45,32 +45,32 @@ Aristophanes,Lysistrata,✔,✔,Yes,
 Aristophanes,Thesmophoriazusae,✔,✔,Yes,
 Aristophanes,Ecclesiazousae,✔,✔,Yes,
 Aristophanes,Plutus,✔,✔,Yes,
-Herodotus,The History,✔,✔,Yes,
+Herodotus,The History,✔,✔,Yes,herodotus/histories/g-c-macaulay
 Thucydides,History of the Peloponnesian War,✔,✔,Yes,
-Plato,Charmides,✔,✔,"Yes, omnibus",
-Plato,Lysis,✔,✔,"Yes, omnibus",
-Plato,Laches,✔,✔,"Yes, omnibus",
-Plato,Protagoras,✔,✔,"Yes, omnibus",
-Plato,Euthydemus,✔,✔,"Yes, omnibus",
-Plato,Cratylus,✔,✔,"Yes, omnibus",
-Plato,Phaedrus,✔,✔,"Yes, omnibus",
-Plato,Ion,✔,✔,"Yes, omnibus",
-Plato,Symposium,✔,✔,"Yes, omnibus",
-Plato,Meno,✔,✔,"Yes, omnibus",
-Plato,Euthyphro,✔,✔,"Yes, omnibus",
-Plato,Apology,✔,✔,"Yes, omnibus",
-Plato,Crito,✔,✔,"Yes, omnibus",
-Plato,Phaedo,✔,✔,"Yes, omnibus",
-Plato,Gorgias,✔,✔,"Yes, omnibus",
-Plato,The Republic,✔,✔,"Yes, omnibus",
-Plato,Timaeus,✔,✔,"Yes, omnibus",
-Plato,Critias,✔,✔,"Yes, omnibus",
-Plato,Parmenides,✔,✔,"Yes, omnibus",
-Plato,Theaetetus,✔,✔,"Yes, omnibus",
-Plato,Sophist,✔,✔,"Yes, omnibus",
-Plato,Statesman,✔,✔,"Yes, omnibus",
-Plato,Philebus,✔,✔,"Yes, omnibus",
-Plato,Laws,✔,✔,"Yes, omnibus",
+Plato,Charmides,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Lysis,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Laches,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Protagoras,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Euthydemus,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Cratylus,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Phaedrus,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Ion,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Symposium,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Meno,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Euthyphro,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Apology,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Crito,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Phaedo,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Gorgias,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,The Republic,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Timaeus,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Critias,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Parmenides,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Theaetetus,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Sophist,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Statesman,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Philebus,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
+Plato,Laws,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
 Plato,The Seventh Letter,✔,✔,Yes,
 Aristotle,Categories,✔,✔,Yes,
 Aristotle,On Interpretation,✔,✔,Yes,
@@ -113,8 +113,8 @@ Nichomachus of Gerasa,Introduction to Arithmetic,✔,✔,???,
 Lucretius,On the Nature of Things,✔,✔,Yes,
 Epictetus,The Discourses,✔,✔,Yes,epictetus/discourses
 Marcus Aurelius,The Meditations,✔,✔,Yes,marcus-aurelius/meditations/george-long
-Virgil,Eclogues,✔,✔,Yes,
-Virgil,Georgics,✔,✔,Yes,
+Virgil,Eclogues,✔,✔,Yes,virgil/the-eclogues/john-dryden
+Virgil,Georgics,✔,✔,Yes,virgil/the-georgics/john-dryden
 Virgil,Aeneid,✔,✔,Yes,virgil/the-aeneid/john-dryden
 Plutarch,The Lives of the Noble Grecians and Romans,✔,✔,Yes,
 Tacitus,The Annals,✔,✔,Yes,
@@ -130,7 +130,7 @@ Augustine of Hippo,On Christian Doctrine,✔,✔,Yes,
 Thomas Aquinas,Summa Theologica,✔,✔,Yes,
 Dante,Divine Comedy,✔,✔,Yes,dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow
 Geoffrey Chaucer,Troilus and Criseyde,✔,✔,Yes,
-Geoffrey Chaucer,The Canterbury Tales,✔,✔,Yes,
+Geoffrey Chaucer,The Canterbury Tales,✔,✔,Yes,geoffrey-chaucer/the-canterbury-tales
 Niccolò Machiavelli,The Prince,✔,✔,Yes,niccolo-machiavelli/the-prince/w-k-marriott
 Thomas Hobbes,Leviathan,✔,✔,Yes,
 François Rabelais,Gargantua and Pantagruel,✔,✔,Yes,
@@ -201,7 +201,7 @@ John Locke,A Letter Concerning Toleration,✔,✔,"No, too short",—
 John Locke,"Concerning Civil Government, Second Essay",✔,✔,Yes,
 John Locke,An Essay Concerning Human Understanding,✔,✔,Yes,
 George Berkeley,The Principles of Human Knowledge,✔,✔,"No, short",—
-David Hume,An Enquiry Concerning Human Understanding,✔,✔,Yes,
+David Hume,An Enquiry Concerning Human Understanding,✔,✔,Yes,david-hume/an-enquiry-concerning-human-understanding
 Jonathan Swift,Gulliver’s Travels,✔,✔,Yes,jonathan-swift/gullivers-travels
 Laurence Sterne,"The Life and Opinions of Tristram Shandy, Gentleman",✔,✗,Yes,laurence-sterne/the-life-and-opinions-of-tristram-shandy-gentleman
 Charles de Secondat,The Spirit of the Laws,✔,✔,Yes,
@@ -209,7 +209,7 @@ Jean‐Jacques Rousseau,A Discourse on the Origin of Inequality,✔,✔,"Yes, om
 Jean‐Jacques Rousseau,A Discourse on Political Economy,✔,✔,"Yes, omnibus",
 Jean‐Jacques Rousseau,The Social Contract,✔,✔,Yes,
 Adam Smith,The Wealth of Nations,✔,✔,Yes,adam-smith/the-wealth-of-nations
-Edward Gibbon,The Decline and Fall of the Roman Empire,✔,✔,Yes,
+Edward Gibbon,The Decline and Fall of the Roman Empire,✔,✔,Yes,edward-gibbon/the-history-of-the-decline-and-fall-of-the-roman-empire
 Immanuel Kant,The Critique of Pure Reason,✔,✔,Yes,
 Immanuel Kant,Fundamental Principles of the Metaphysic of Morals,✔,✔,Yes,
 Immanuel Kant,Critique of Practical Reason,✔,✔,Yes,
@@ -282,7 +282,7 @@ Henrik Ibsen,A Doll’s House,✗,✔,Yes,henrik-ibsen/a-dolls-house/r-farquhars
 Henrik Ibsen,The Wild Duck,✗,✔,Yes,
 Henrik Ibsen,Hedda Gabler,✗,✔,Yes,henrik-ibsen/hedda-gabler/edmund-gosse_william-archer
 Henrik Ibsen,The Master Builder,✗,✔,Yes,
-William James,Pragmatism,✗,✔,Yes,
+William James,Pragmatism,✗,✔,Yes,william-james/pragmatism
 Henry Bergson,An Introduction to Metaphysics,✗,✔,???,
 John Dewey,Experience and Education,✗,✔,"No, copyrighted",—
 Alfred North Whitehead,Science and the Modern World,✗,✔,Yes,
@@ -314,11 +314,11 @@ George Bernard Shaw,Saint Joan,✗,✔,Yes,
 Joseph Conrad,Heart of Darkness,✗,✔,Yes,joseph-conrad/heart-of-darkness
 Anton Chekhov,Uncle Vanya,✗,✔,Yes,
 Luigi Pirandello,Six Characters in Search of an Author,✗,✔,Yes,luigi-pirandello/six-characters-in-search-of-an-author/edward-storer
-Marcel Proust,Remembrance of Things Past: “Swann in Love”,✗,✔,Yes,
+Marcel Proust,Remembrance of Things Past: “Swann in Love”,✗,✔,Yes,marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff
 Willa Cather,A Lost Lady,✗,✔,Yes,
 Thomas Mann,Death in Venice,✗,✔,Yes,
 James Joyce,A Portrait of the Artist as a Young Man,✗,✔,Yes,james-joyce/a-portrait-of-the-artist-as-a-young-man
-Virginia Woolf,To the Lighthouse,✗,✔,Copyright expires 2023,
+Virginia Woolf,To the Lighthouse,✗,✔,Yes,virginia-woolf/to-the-lighthouse
 Franz Kafka,The Metamorphosis,✗,✔,"No, translation copyrighted",—
 D. H. Lawrence,The Prussian Officer,✗,✔,"Yes, omnibus",
 T. S. Eliot,The Waste Land,✗,✔,"Yes, Omnibus",t-s-eliot/poetry
