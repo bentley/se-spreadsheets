@@ -139,10 +139,10 @@ William Shakespeare,The Second Part of King Henry the Sixth,✔,✔,Yes,william-
 William Shakespeare,The Third Part of King Henry the Sixth,✔,✔,Yes,william-shakespeare/henry-vi-part-iii
 William Shakespeare,The Tragedy of Richard the Third,✔,✔,Yes,william-shakespeare/richard-iii
 William Shakespeare,The Comedy of Errors,✔,✔,Yes,william-shakespeare/the-comedy-of-errors
-William Shakespeare,Titus Andronicus,✔,✔,Yes,
+William Shakespeare,Titus Andronicus,✔,✔,Yes,william-shakespeare/titus-andronicus
 William Shakespeare,The Taming of the Shrew,✔,✔,Yes,william-shakespeare/the-taming-of-the-shrew
 William Shakespeare,The Two Gentlemen of Verona,✔,✔,Yes,william-shakespeare/the-two-gentlemen-of-verona
-William Shakespeare,Love’s Labour’s Lost,✔,✔,Yes,
+William Shakespeare,Love’s Labour’s Lost,✔,✔,Yes,william-shakespeare/loves-labours-lost
 William Shakespeare,Romeo and Juliet,✔,✔,Yes,william-shakespeare/romeo-and-juliet
 William Shakespeare,The Tragedy of King Richard the Second,✔,✔,Yes,william-shakespeare/richard-ii
 William Shakespeare,A Midsummer Night’s Dream,✔,✔,Yes,william-shakespeare/a-midsummer-nights-dream
@@ -157,9 +157,9 @@ William Shakespeare,As You Like It,✔,✔,Yes,william-shakespeare/as-you-like-i
 William Shakespeare,"Twelfth Night; or, What You Will",✔,✔,Yes,william-shakespeare/twelfth-night
 William Shakespeare,"The Tragedy of Hamlet, Prince of Denmark",✔,✔,Yes,william-shakespeare/hamlet
 William Shakespeare,The Merry Wives of Windsor,✔,✔,Yes,william-shakespeare/the-merry-wives-of-windsor
-William Shakespeare,Troilus and Cressida,✔,✔,Yes,
+William Shakespeare,Troilus and Cressida,✔,✔,Yes,william-shakespeare/troilus-and-cressida
 William Shakespeare,All’s Well That Ends Well,✔,✔,Yes,william-shakespeare/alls-well-that-ends-well
-William Shakespeare,Measure for Measure,✔,✔,Yes,
+William Shakespeare,Measure for Measure,✔,✔,Yes,william-shakespeare/measure-for-measure
 William Shakespeare,"Othello, the Moor of Venice",✔,✔,Yes,william-shakespeare/othello
 William Shakespeare,King Lear,✔,✔,Yes,william-shakespeare/king-lear
 William Shakespeare,Macbeth,✔,✔,Yes,william-shakespeare/macbeth
@@ -167,8 +167,8 @@ William Shakespeare,Antony and Cleopatra,✔,✔,Yes,william-shakespeare/antony-
 William Shakespeare,Coriolanus,✔,✔,Yes,william-shakespeare/coriolanus
 William Shakespeare,Timon of Athens,✔,✔,Yes,william-shakespeare/timon-of-athens
 William Shakespeare,"Pericles, Prince of Tyre",✔,✔,Yes,william-shakespeare/pericles
-William Shakespeare,Cymbeline,✔,✔,Yes,
-William Shakespeare,The Winter’s Tale,✔,✔,Yes,
+William Shakespeare,Cymbeline,✔,✔,Yes,william-shakespeare/cymbeline
+William Shakespeare,The Winter’s Tale,✔,✔,Yes,william-shakespeare/the-winters-tale
 William Shakespeare,The Tempest,✔,✔,Yes,william-shakespeare/the-tempest
 William Shakespeare,Henry VIII,✔,✔,Yes,william-shakespeare/henry-viii
 William Shakespeare,Sonnets,✔,✔,Yes,william-shakespeare/poetry
@@ -263,7 +263,6 @@ Molière,The Critique of the School for Wives,✗,✔,Yes,
 Molière,Tartuffe,✗,✔,Yes,moliere/tartuffe/curtis-hidden-page
 Molière,Don Juan,✗,✔,Yes,
 Molière,The Miser,✗,✔,Yes,
-Molière,The Miser,✗,✔,Yes,
 Molière,The Would‐Be Gentleman,✗,✔,Yes,
 Molière,The Imaginary Invalid,✗,✔,Yes,
 Jean Racine,Bérénice,✗,✔,Yes,
@@ -303,7 +302,7 @@ Erwin Schrödinger,What Is Life?,✗,✔,"No, copyrighted",—
 Theodosius Dobzhansky,Genetics and the Origin of Species,✗,✔,"No, copyrighted",—
 C. H. Waddington,The Nature of Life,✗,✔,"No, copyrighted",—
 Thorstein Veblen,The Theory of the Leisure Class,✗,✔,Yes,thorstein-veblen/the-theory-of-the-leisure-class
-R. H. Tawney,The Acquisitive Society,✗,✔,Yes,
+R. H. Tawney,The Acquisitive Society,✗,✔,Yes,r-h-tawney/the-acquisitive-society
 John Maynard Keynes,"The General Theory of Employment, Interest and Money",✗,✔,"No, copyrighted",—
 Sir James George Frazer,The Golden Bough,✗,✔,Yes,
 Max Weber,Essays in Sociology,✗,✔,"No, copyrighted",—
