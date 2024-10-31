@@ -5,7 +5,7 @@ Aeschylus,The Suppliant Maidens,✔,✔,Yes,
 Aeschylus,The Persians,✔,✔,Yes,
 Aeschylus,Seven Against Thebes,✔,✔,Yes,
 Aeschylus,Prometheus Bound,✔,✔,Yes,
-Aeschylus,Agamemnon,✔,✔,Yes,
+Aeschylus,Agamemnon,✔,✔,Yes,aeschylus/agamemnon/gilbert-murray
 Aeschylus,Choephoroe,✔,✔,Yes,
 Aeschylus,The Eumenides,✔,✔,Yes,aeschylus/the-eumenides/gilbert-murray
 Sophocles,Oedipus the King,✔,✔,Yes,
@@ -46,7 +46,7 @@ Aristophanes,Thesmophoriazusae,✔,✔,Yes,
 Aristophanes,Ecclesiazousae,✔,✔,Yes,
 Aristophanes,Plutus,✔,✔,Yes,
 Herodotus,The History,✔,✔,Yes,herodotus/histories/g-c-macaulay
-Thucydides,History of the Peloponnesian War,✔,✔,Yes,
+Thucydides,History of the Peloponnesian War,✔,✔,Yes,thucydides/history-of-the-peloponnesian-war/richard-crawley
 Plato,Charmides,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
 Plato,Lysis,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
 Plato,Laches,✔,✔,"Yes, omnibus",plato/dialogues/benjamin-jowett
@@ -207,7 +207,7 @@ Laurence Sterne,"The Life and Opinions of Tristram Shandy, Gentleman",✔,✗,Ye
 Charles de Secondat,The Spirit of the Laws,✔,✔,Yes,
 Jean‐Jacques Rousseau,A Discourse on the Origin of Inequality,✔,✔,"Yes, omnibus",
 Jean‐Jacques Rousseau,A Discourse on Political Economy,✔,✔,"Yes, omnibus",
-Jean‐Jacques Rousseau,The Social Contract,✔,✔,Yes,
+Jean‐Jacques Rousseau,The Social Contract,✔,✔,Yes,jean-jacques-rousseau/the-social-contract/g-d-h-cole
 Adam Smith,The Wealth of Nations,✔,✔,Yes,adam-smith/the-wealth-of-nations
 Edward Gibbon,The Decline and Fall of the Roman Empire,✔,✔,Yes,edward-gibbon/the-history-of-the-decline-and-fall-of-the-roman-empire
 Immanuel Kant,The Critique of Pure Reason,✔,✔,Yes,
