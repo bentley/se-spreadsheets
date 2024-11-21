@@ -1,5 +1,6 @@
+Position,Author,Title,PD?,Suitable for SE,Name on SE
 1,George Eliot,Middlemarch,Yes,Yes,george-eliot/middlemarch
-2,Virginia Woolf,To the Lighthouse,2023,Yes,
+2,Virginia Woolf,To the Lighthouse,2023,Yes,virginia-woolf/to-the-lighthouse
 3,Virginia Woolf,Mrs. Dalloway,Yes,Yes,virginia-woolf/mrs-dalloway
 4,Charles Dickens,Great Expectations,Yes,Yes,charles-dickens/great-expectations
 5,Charlotte Brontë,Jane Eyre,Yes,Yes,charlotte-bronte/jane-eyre
@@ -27,18 +28,18 @@
 27,Daniel Defoe,Robinson Crusoe,Yes,Yes,daniel-defoe/the-life-and-adventures-of-robinson-crusoe
 28,Charlotte Brontë,Villette,Yes,Yes,charlotte-bronte/villette
 29,Monica Ali,Brick Lane,2092+,—,—
-30,Daniel Defoe,Moll Flanders,Yes,Yes,
+30,Daniel Defoe,Moll Flanders,Yes,Yes,daniel-defoe/moll-flanders
 31,Graham Greene,The End of the Affair,2047,—,—
 32,E. M. Forster,A Room with a View,Yes,Yes,e-m-forster/a-room-with-a-view
 33,Kenneth Grahame,The Wind in the Willows,Yes,Yes,kenneth-grahame/the-wind-in-the-willows
 34,Kazuo Ishiguro,Never Let Me Go,2092+,—,—
 35,Tom McCarthy,Remainder,2092+,—,—
 36,Anthony Powell,A Dance to the Music of Time,2047,—,—
-37,Evelyn Waugh,Decline and Fall,2024,Yes,
+37,Evelyn Waugh,Decline and Fall,2024,Yes,evelyn-waugh/decline-and-fall
 38,Jeanette Winterson,The Passion,2092+,—,—
 39,Julian Barnes, The Sense of an Ending,2092+,—,—
 40,Lewis Carroll,Alice’s Adventures in Wonderland,Yes,Yes,lewis-carroll/alices-adventures-in-wonderland/john-tenniel
-41,Charles Dickens,Dombey and Son,Yes,Yes,
+41,Charles Dickens,Dombey and Son,Yes,Yes,charles-dickens/dombey-and-son
 42,Graham Greene,Brighton Rock,2034,—,—
 43,Alan Hollinghurst,The Swimming Pool Library,2062+,—,—
 44,Hilary Mantel,Wolf Hall,2062+,—,—
@@ -57,7 +58,7 @@
 57,Ford Madox Ford,Some Do Not…,Yes,Yes,ford-madox-ford/some-do-not
 57,Ford Madox Ford,No More Parades,Yes,Yes,ford-madox-ford/no-more-parades
 57,Ford Madox Ford,A Man Could Stand Up—,2022,Yes,ford-madox-ford/a-man-could-stand-up
-57,Ford Madox Ford,Last Post,2024,Yes,
+57,Ford Madox Ford,Last Post,2024,Yes,ford-madox-ford/the-last-post
 58,Henry Green,Loving,2041,—,—
 59,Alan Hollinghurst,The Line of Beauty,2092+,—,—
 60,D. H. Lawrence,Sons and Lovers,Yes,Yes,d-h-lawrence/sons-and-lovers
@@ -65,7 +66,7 @@
 62,George Orwell,Animal Farm,2041,—,—
 63,Muriel Spark,The Prime of Miss Jean Brodie,2057,—,—
 64,Anthony Trollope,The Way We Live Now,Yes,Yes,anthony-trollope/the-way-we-live-now
-65,Virginia Woolf,Orlando,2024,Yes,
+65,Virginia Woolf,Orlando,2024,Yes,virginia-woolf/orlando
 66,Jane Austen,Sense and Sensibility,Yes,Yes,jane-austen/sense-and-sensibility
 67,J. G. Ballard,Crash,2069,—,—
 68,Anthony Burgess,A Clockwork Orange,2058,—,—
@@ -75,7 +76,7 @@
 72,Graham Greene,The Heart of the Matter,2044,—,—
 73,Penelope Fitzgerald,The Blue Flower,2071,—,—
 74,Thomas Hardy,The Mayor of Casterbridge,Yes,Yes,thomas-hardy/the-mayor-of-casterbridge
-75,D. H. Lawrence,Women in Love,Yes,Yes,
+75,D. H. Lawrence,Women in Love,Yes,Yes,d-h-lawrence/women-in-love
 76,Andrea Levy,Small Island,2090,—,—
 77,W Somerset Maugham,Of Human Bondage,Yes,Yes,w-somerset-maugham/of-human-bondage
 78,V. S. Naipaul,A House for Mr Biswas,2057,—,—
@@ -87,14 +88,14 @@
 84,Evelyn Waugh,Scoop,2034,—,—
 85,Pat Barker,Regeneration Trilogy,2092+,—,—
 86,Sybille Bedford,A Legacy,2052,—,—
-87,Arnold Bennett,The Old Wives’ Tale,Yes,Yes,
+87,Arnold Bennett,The Old Wives’ Tale,Yes,Yes,arnold-bennett/the-old-wives-tale
 88,Elizabeth Bowen,The Death of the Heart,2034,—,—
 89,Joyce Cary,The Horse’s Mouth,2040,—,—
 90,Wilkie Collins,The Woman in White,Yes,Yes,wilkie-collins/the-woman-in-white
 91,John Galsworthy,The Forsyte Saga,Yes,Yes,john-galsworthy/the-forsyte-saga
 92,Stella Gibbons,Cold Comfort Farm,2028,Yes,
 93,William Golding,Lord of the Flies,2050,—,—
-94,James Hogg,The Private Memoirs and Confessions of a Justified Sinner,Yes,Yes,
+94,James Hogg,The Private Memoirs and Confessions of a Justified Sinner,Yes,Yes,james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner
 95,Hanif Kureishi,The Buddha of Suburbia,2092+,—,—
 96,Doris Lessing,Memoirs of a Survivor,2070,—,—
 97,C. S. Lewis,The Chronicles of Narnia,2045,—,—

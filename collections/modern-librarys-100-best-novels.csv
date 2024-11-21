@@ -1,5 +1,5 @@
 Position,Author,Work,PD,Suitable for SE,Exists on SE
-1,James Joyce,Ulysses,Yes,Yes,
+1,James Joyce,Ulysses,Yes,Yes,james-joyce/ulysses
 2,F. Scott Fitzgerald,The Great Gatsby,Yes,Yes,f-scott-fitzgerald/the-great-gatsby
 3,James Joyce,A Portrait of the Artist as a Young Man,Yes,Yes,james-joyce/a-portrait-of-the-artist-as-a-young-man
 4,Vladimir Nabokov,Lolita,2051,—,—
@@ -13,14 +13,14 @@ Position,Author,Work,PD,Suitable for SE,Exists on SE
 12,Samuel Butler,The Way of All Flesh,Yes,Yes,samuel-butler/the-way-of-all-flesh
 13,George Orwell,1984,2045,—,—
 14,Robert Graves,"I, Claudius",2030,Yes,
-15,Virginia Woolf,To the Lighthouse,2023,Yes,
+15,Virginia Woolf,To the Lighthouse,2023,Yes,virginia-woolf/to-the-lighthouse
 16,Theodore Dreiser,An American Tragedy,Yes,Yes,theodore-dreiser/an-american-tragedy
 17,Carson McCullers,The Heart is a Lonely Hunter,2036,Yes,
 18,Kurt Vonnegut,Slaughterhouse-Five,2065,—,—
 19,Ralph Ellison,Invisible Man,2048,—,—
 20,Richard Wright,Native Son,2036,—,—
 21,Saul Bellow,Henderson the Rain King,2055,—,—
-22,John O’Hara,Appointment in Samarra,1930,Yes,
+22,John O’Hara,Appointment in Samarra,2026,Yes,
 23,John Dos Passos,The 42nd Parallel,2026,Yes,
 23,John Dos Passos,1919,2028,Yes,
 23,John Dos Passos,The Big Money,2032,Yes,
@@ -39,7 +39,7 @@ Position,Author,Work,PD,Suitable for SE,Exists on SE
 34,Evelyn Waugh,A Handful of Dust,1930,Yes,
 35,William Faulkner,As I Lay Dying,2026,Yes,
 36,Robert Penn Warren,All the King’s Men,1942,—,—
-37,Thornton Wilder,The Bridge of San Luis Rey,2023,Yes,
+37,Thornton Wilder,The Bridge of San Luis Rey,2023,Yes,thornton-wilder/the-bridge-of-san-luis-rey
 38,E.M. Forster,Howards End,Yes,Yes,e-m-forster/howards-end
 39,James Baldwin,Go Tell It On the Mountain,2049,—,—
 40,Graham Greene,The Heart of the Matter,2044,—,—
@@ -51,7 +51,7 @@ Position,Author,Work,PD,Suitable for SE,Exists on SE
 46,Joseph Conrad,The Secret Agent,Yes,Yes,joseph-conrad/the-secret-agent
 47,Joseph Conrad,Nostromo,Yes,Yes,joseph-conrad/nostromo
 48,D.H. Lawrence,The Rainbow,Yes,Yes,d-h-lawrence/the-rainbow
-49,D.H. Lawrence,Women in Love,Yes,Yes,
+49,D.H. Lawrence,Women in Love,Yes,Yes,d-h-lawrence/women-in-love
 50,Henry Miller,Tropic of Cancer,2030,Yes,
 51,Norman Mailer,The Naked and the Dead,2044,—,—
 52,Philip Roth,Portnoy’s Complaint,2065,—,—
@@ -62,11 +62,11 @@ Position,Author,Work,PD,Suitable for SE,Exists on SE
 57,Ford Madox Ford,Some Do Not…,Yes,Yes,ford-madox-ford/some-do-not
 57,Ford Madox Ford,No More Parades,Yes,Yes,ford-madox-ford/no-more-parades
 57,Ford Madox Ford,A Man Could Stand Up—,2022,Yes,ford-madox-ford/a-man-could-stand-up
-57,Ford Madox Ford,Last Post,2024,Yes,
+57,Ford Madox Ford,Last Post,2024,Yes,ford-madox-ford/the-last-post
 58,Edith Wharton,The Age of Innocence,Yes,Yes,edith-wharton/the-age-of-innocence
 59,Max Beerbohm,Zuleika Dobson,Yes,Yes,max-beerbohm/zuleika-dobson
 60,Walker Percy,The Moviegoer,2057,—,—
-61,Willa Cather,Death Comes for the Archbishop,2023,Yes,
+61,Willa Cather,Death Comes for the Archbishop,2023,Yes,willa-cather/death-comes-for-the-archbishop
 62,James Jones,From Here to Eternity,2047,—,—
 63,John Cheever,The Wapshot Chronicle,2053,—,—
 64,J.D. Salinger,The Catcher in the Rye,2042,—,—
@@ -92,7 +92,7 @@ Position,Author,Work,PD,Suitable for SE,Exists on SE
 84,Elizabeth Bowen,The Death of the Heart,2034,—,—
 85,Joseph Conrad,Lord Jim,Yes,Yes,joseph-conrad/lord-jim
 86,E.L. Doctorow,Ragtime,2086,—,—
-87,Arnold Bennett,The Old Wives’ Tale,Yes,Yes,
+87,Arnold Bennett,The Old Wives’ Tale,Yes,Yes,arnold-bennett/the-old-wives-tale
 88,Jack London,The Call of the Wild,Yes,Yes,jack-london/the-call-of-the-wild
 89,Henry Green,Loving,2041,—,—
 90,Salman Rushdie,Midnight’s Children,2092+,—,—
